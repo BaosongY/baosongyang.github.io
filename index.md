@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Baosong Yang's Home Page
 cover: false
 ---
 
