@@ -25,32 +25,15 @@ Currently I am co-director of the
 
 
 ## News
-* In February, the UK government announced its multi-million pound investment in a new
-[Centre for Doctoral Training in Natural Language Processing](https://edinburghnlp.inf.ed.ac.uk/cdt/)
-in Edinburgh, directed by my colleague [Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/).
-The centre is a collaboration between informatics, linguistics, psychology, and design.
-It will offer an innovative new PhD programme that integrates research and 
-teaching across these disciplines.
-I will be co-director. [Apply now!](https://edinburghnlp.inf.ed.ac.uk/cdt/)
+* Feb 2019, three papers are accepted by NAACL-2019.
  
-* I'm in the [Edinburgh Science Festival](https://www.sciencefestival.co.uk/festival)!
-My interactive talk about [language translation technologies](https://www.sciencefestival.co.uk/event-details/inside-google-translate)
-will be on April 10.
+* Nov 2018, one paper is accepted by AAAI-2019.
 
-* In January 2019, [Sorcha Gilroy](http://homepages.inf.ed.ac.uk/s1459276/) 
-successfully defended her [PhD thesis](https://drive.google.com/file/d/1yi_dyiOKXbZdVNcGy789A26FE7nAoTn0/view?usp=sharing) on Probabilistic Graph Formalisms for
-Meaning Representations. During her time as a student, she 
-received an [oustanding paper award](https://naacl2018.wordpress.com/2018/04/11/outstanding-papers/)
-at [NAACL 2018](http://naacl2018.org/) and was a finalist in University of Edinburgh 
-[3-minute thesis competition](https://www.ed.ac.uk/institute-academic-development/postgraduate/doctoral/3mt/3mt-final),
-along with many other accomplishments.
+* May 2019, two paper is accepted by EMNLP-2018.
 
-* Sorcha Gilroy and I gave a tutorial on 
-[Graph Formalisms for Meaning Representations](https://bit.ly/GraphFormalismsEMNLP) at
-[EMNLP 2018](http://emnlp2018.org/). We taught [a week-long course](https://drive.google.com/drive/folders/1NtdhgieGKpnTvpYiBCUgkE-g0ygKDyE_) on 
-the same topic at [NASSLLI 2018](https://www.cmu.edu/nasslli2018/).
+* Jan 2018, I intern at Tecent AI lab working with Dr. Zhaopeng Tu. 
 
-## Current Research Highlights
+## Selected Publications
 
 <ul>
 {% for paper in site.data.papers.papers %}
