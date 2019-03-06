@@ -10,23 +10,23 @@ order:  1
 <ul>
 {% for paper in site.data.papers.papers %}
 {% case paper.year %}
-  {% when 2019 %}**2019**
+  **2019**{% when 2019 %}
   <li>
   {% include paper.html paper=paper %}
   </li>  
-  {% when 2018 %}**2018**
+  **2018**{% when 2018 %}
   <li>
   {% include paper.html paper=paper %}
   </li>  
-  {% when 2017 %}**2017**
+  **2017**{% when 2017 %}
   <li>
   {% include paper.html paper=paper %}
   </li>  
-  {% when 2016 %}**2016**
+  **2016**{% when 2016 %}
   <li>
   {% include paper.html paper=paper %}
   </li>  
-  {% when 2015 %}**2015**
+  **2015**{% when 2015 %}
   <li>
   {% include paper.html paper=paper %}
   </li>
