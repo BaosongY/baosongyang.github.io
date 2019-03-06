@@ -10,7 +10,7 @@ order:  1
 {% for paper in site.data.papers.papers %}
  {% if paper.year!=my_year %}
  {% assign my_year = paper.year %}
-## {{ my_year }}
+ <a>{{ my_year }}</a>
  {% endif %}
  <ul> 
   <li>{% include paper.html paper=paper %}</li>
