@@ -1,6 +1,6 @@
 papers:
   - layout: paper
-    year: 2019
+    year: "2019"
     paper-type: inproceedings
     selected: yes
     title: "Convolutional Self-Attention Networks." 
@@ -9,7 +9,7 @@ papers:
     doc-url: https://arxiv.org/pdf/1810.13320.pdf
     venue: conference 
   - layout: paper
-    year: 2019
+    year: "2019"
     paper-type: inproceedings
     selected: yes
     title: "Information Aggregation for Multi-Head Attention with Routing-by-Agreement." 
@@ -17,7 +17,7 @@ papers:
     booktitle: "<b>NAACL 2019</b>"
     venue: conference
   - layout: paper
-    year: 2019
+    year: "2019"
     paper-type: inproceedings
     selected: yes
     title: "Modeling Recurrence for Transformer." 
@@ -25,7 +25,7 @@ papers:
     booktitle: "<b>NAACL 2019</b>"
     venue: conference 
   - layout: paper
-    year: 2019
+    year: "2019"
     paper-type: inproceedings
     selected: yes
     title: "Context-Aware Self-Attention Networks." 
@@ -34,7 +34,7 @@ papers:
     doc-url: https://arxiv.org/pdf/1902.05766.pdf
     venue: conference     
   - layout: paper
-    year: 2018
+    year: "2018"
     paper-type: inproceedings
     selected: yes
     title: "Modeling Localness for Self-Attention Networks." 
@@ -43,7 +43,7 @@ papers:
     doc-url: http://aclweb.org/anthology/D18-1475
     venue: conference    
   - layout: paper
-    year: 2018
+    year: "2018"
     paper-type: inproceedings
     selected: yes
     title: "Multi-Head Attention with Disagreement Regularization." 
@@ -52,7 +52,7 @@ papers:
     doc-url: http://aclweb.org/anthology/D18-1317
     venue: conference
   - layout: paper
-    year: 2017
+    year: "2017"
     paper-type: inproceedings
     selected: yes
     title: "Towards Bidirectional Hierarchical Representations for Attention-Based Neural Machine Translation." 
@@ -61,7 +61,7 @@ papers:
     doc-url: http://aclweb.org/anthology/D17-1150
     venue: conference
   - layout: paper
-    year: 2016
+    year: "2016"
     paper-type: article
     selected: no
     img: daga-cl
@@ -72,7 +72,7 @@ papers:
     doc-url: https://link.springer.com/content/pdf/10.1007%2F978-3-319-93782-3_16.pdf
     venue: journal
   - layout: paper
-    year: 2015
+    year: "2015"
     paper-type: inproceedings
     selected: no
     title: "Fast Training for Statistical Machine Translation Systems."
@@ -81,7 +81,7 @@ papers:
     doc-url: http://ltc.amu.edu.pl/a2015/book/papers/MT-2.pdf
     venue: conference   
   - layout: paper
-    year: 2015
+    year: "2015"
     paper-type: inproceedings
     selected: no
     title: "Sampling-based Alignment and Hierarchical Sub-sentential Alignment in Chinese-Japanese Translation of Patents."
@@ -90,7 +90,7 @@ papers:
     doc-url: http://aclweb.org/anthology/W15-5011
     venue: workshop
   - layout: paper
-    year: 2015
+    year: "2015"
     paper-type: inproceedings
     selected: no
     title: "Multi-processing and Approximations in Associative Methods for Faster Training of SMT Systems."
@@ -99,7 +99,7 @@ papers:
     doc-url: http://ltc.amu.edu.pl/a2015/book/papers/MT-2.pdf
     venue: conference    
   - layout: paper
-    year: 2015
+    year: "2015"
     paper-type: inproceedings
     selected: no
     title: "Faster Development of Statistical Machine Translation Systems with Sampling-based Alignment and Hierarchical Sub-sentential Alignment."
