@@ -3,9 +3,9 @@
 {% if include.paper.authors %}{{ include.paper.authors }}.{% endif %}<br/>  
 {% case include.paper.paper-type %}
   {% when "inproceedings" %}
-    <i>{{ include.paper.booktitle }}</i>
+    <i style="color:#090">{{ include.paper.booktitle }}</i>
   {% when "article" %}
-    <i>{{ include.paper.journal }}</i>
+    <i style="color:#090">{{ include.paper.journal }}</i>
   {% when "dissertation" %}
     Dissertation, {{ include.paper.institution }}
 {% endcase %} 
