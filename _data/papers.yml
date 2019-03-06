@@ -1,64 +1,50 @@
 papers:
   - layout: paper
-    selected: yes
     paper-type: inproceedings
-    year: 2019
-    title: "The problem with probabilistic DAG automata for semantic graphs"
-    authors: "Ieva Vasiljeva, Sorcha Gilroy, and Adam Lopez"
-    booktitle: "Proceedings of NAACL-HLT"
-    doc-url: "https://arxiv.org/abs/1810.12266"
-    venue: conference
-  - layout: paper
     selected: yes
-    paper-type: inproceedings
-    year: 2019
-    title: "Understanding learning dynamics of language models with SVCCA"
-    authors: "Naomi Saphra and Adam Lopez"
-    booktitle: "Proceedings of NAACL-HLT"
-    venue: conference 
-    doc-url: "https://arxiv.org/abs/1811.00225"
-  - layout: paper
-    selected: yes
-    year: 2019
-    paper-type: inproceedings
-    title: "Pre-training on high-resource speech recognition improves low-resource speech-to-text translation"
-    authors: "Sameer Bansal, Herman Kamper, Karen Livescu, Adam Lopez, and Sharon Goldwater"
-    booktitle: "Proceedings of NAACL-HLT"
-    doc-url: https://arxiv.org/abs/1809.01431
+    title: "Convolutional Self-Attention Networks." 
+    authors: "<b>Baosong Yang</b>, Longyue Wang, Derek Wong, Lidia Chao and Zhaopeng Tu"
+    booktitle: "<b>NAACL 2019</b>"
+    doc-url: https://arxiv.org/pdf/1810.13320.pdf
     venue: conference 
   - layout: paper
-    year: 2018
-    selected: yes
     paper-type: inproceedings
-    title: "What do character-level models learn about morphology? The case of dependency parsing"
-    authors: "Clara Vania, Andreas Grivas, and Adam Lopez"
-    booktitle: Proceedings of EMNLP
-    booktitle-url: http://emnlp2018.org/
-    doc-url: http://aclweb.org/anthology/D18-1278
+    selected: yes
+    title: "Information Aggregation for Multi-Head Attention with Routing-by-Agreement." 
+    authors: "Jian Li, <b>Baosong Yang</b>, Zi-Yi Dou, Xing Wang, Michael R. Lyu and Zhaopeng Tu."
+    booktitle: "<b>NAACL 2019</b>"
     venue: conference
   - layout: paper
-    year: 2018
     paper-type: inproceedings
     selected: yes
-    title: "<i>Indicatements</i> that character language models learn English morpho-syntactic units and regularities"
-    authors: "Yova Kementchedjhieva and Adam Lopez"
-    booktitle: Proceedings of the Workshop on analyzing and interpreting neural networks for NLP
-    booktitle-url: https://blackboxnlp.github.io/
-    doc-url: http://aclweb.org/anthology/W18-5417
-    venue: workshop
-    abstract: >
-      Character language models have access to surface morphological 
-      patterns, but it is not clear whether or <i>how</i> they learn 
-      abstract morphological regularities. We instrument a character 
-      language model with several probes, finding that it can develop a 
-      specific unit to identify word boundaries and, by extension, morpheme 
-      boundaries, which allows it to capture linguistic properties and 
-      regularities of these units. Our language model proves surprisingly 
-      good at identifying the selectional restrictions of English 
-      derivational morphemes, a task that requires both morphological and 
-      syntactic awareness. Thus we conclude that, when morphemes overlap 
-      extensively with the words of a language, a character language model 
-      can perform morphological abstraction.  
+    title: "Modeling Recurrence for Transformer." 
+    authors: "Jie Hao, Xing Wang, <b>Baosong Yang</b>, Longyue Wang, Jinfeng Zhang and Zhaopeng Tu"
+    booktitle: "<b>NAACL 2019</b>"
+    venue: conference 
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    title: "Context-Aware Self-Attention Networks." 
+    authors: "<b>Baosong Yang</b>, Jian Li, Derek Wong, Lidia Chao, Xing Wang and Zhaopeng Tu"
+    booktitle: "<b>AAAI 2019</b>"
+    doc-url: https://arxiv.org/pdf/1902.05766.pdf
+    venue: conference     
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    title: "Modeling Localness for Self-Attention Networks." 
+    authors: "<b>Baosong Yang</b>, Zhaopeng Tu, Derek Wong, Fandong Meng, Lidia Chao and Tong Zhang"
+    booktitle: "<b>EMNLP 2018</b>"
+    doc-url: http://aclweb.org/anthology/D18-1475
+    venue: conference    
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    title: "Multi-Head Attention with Disagreement Regularization." 
+    authors: "Jian Li, Zhaopeng Tu, <b>Baosong Yang</b>, Michael Lyu and Tong Zhang"
+    booktitle: "<b>EMNLP 2018</b>"
+    doc-url: http://aclweb.org/anthology/D18-1317
+    venue: conference
   - layout: paper
     paper-type: inproceedings
     selected: yes
@@ -67,3 +53,12 @@ papers:
     booktitle: "<b>EMNLP 2017</b>"
     doc-url: http://aclweb.org/anthology/D17-1150
     venue: conference
+  - layout: paper
+    year: 2018
+    paper-type: inproceedings
+    selected: no
+    title: "Sampling-based Alignment and Hierarchical Sub-sentential Alignment in Chinese-Japanese Translation of Patents."
+    authors: "Wei Yang, Zhongwen Zhao, <b>Baosong Yang</b> and Yves Lepage"
+    booktitle: WAT 2015
+    doc-url: http://aclweb.org/anthology/W15-5011
+    venue: workshop     
