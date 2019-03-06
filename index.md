@@ -9,10 +9,9 @@ I am currently a Ph.D. candidate in the Natural Language Processing & Portuguese
 * Natrual Language Processing
 * Machine Translation
 ## Education
-* Ph.D. Excepted at 2019. University of Macau, Macau, China.
-* M.S. 2015. Waseda University, Fukuka, Japan.
+* Ph.D. Excepted at 2019. University of Macau, Macau, China. Supervised by Prof. [Derek F. Wong](https://www.fst.um.edu.mo/en/staff/fstfw.html) and Prof. [Lidia S. Chao](https://www.fst.um.edu.mo/en/staff/cds/lidiasc.html).
+* M.S. 2015. Waseda University, Fukuka, Japan. Supervised by Prof. [Yves Lepage](https://www.waseda.jp/fsci/gips/other-en/2015/09/08/2164/)
 * B.S. 2014. Sichuan University, Sichuan, China.
-		Moreover, he had internships at Tencent AI Lab (Shenzhen) in 2018.
 ## News
 * 2019-02-23: Three papers are accepted by NAACL-2019.
  
@@ -20,7 +19,7 @@ I am currently a Ph.D. candidate in the Natural Language Processing & Portuguese
 
 * 2018-08-10: Two paper is accepted by EMNLP-2018.
 
-* 2018-01-01. intern at Tecent AI lab working with Dr. Zhaopeng Tu. 
+* 2018-01-01. Internship at Tecent AI lab. Work with Dr. [Zhaopeng Tu](http://zptu.net/). 
 
 ## Selected Publications
 
