@@ -14,7 +14,6 @@ order:  1
  ## {{ my_year }}
  {% endif %}
   <li>{% include paper.html paper=paper %}</li>
- {% endif %}
 {% endfor %}
 </ul> 
 
