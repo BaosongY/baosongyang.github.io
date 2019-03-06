@@ -15,12 +15,12 @@ order:  2
 * 2012--2014: QA System for Sichuan University, Rudiment Fund of Sichuan University
 
 ## Social Experiences
-* 2018--2019: Postgraduate Intern, Tencent AI Lab, China
-*  Dec. 2017: Postgraduate Intern, Zhuhai UM Science & Technology Research Institute, China
-* 2016--2019: Research Assistant, NLP2CT Laboratory, University of Macau, Macau
-* 2014--2015: Research Assistant, EBMT/NLP Laboratory, Waseda University, Japan
-* 2012--2013: Student Council Vice President, College of Software Engineering, Sichuan University, China
-*  Jan. 2013: Internship Project Manager, Hwadee Co. Ltd., Chengdu, China
+* 2018--2019: Postgraduate Intern, [Tencent AI Lab](https://ai.tencent.com/ailab/en/index/), China
+*  Dec. 2017: Postgraduate Intern, [Zhuhai UM Science & Technology Research Institute](https://zumri.um.edu.mo/), China
+* 2016--2019: Research Assistant, [NLP2CT Laboratory](http://nlp2ct.cis.umac.mo/), University of Macau, Macau
+* 2014--2015: Research Assistant, [EBMT/NLP Laboratory](http://lepage-lab.ips.waseda.ac.jp/en/), Waseda University, Japan
+* 2012--2013: Student Council Vice President, [College of Software Engineering](http://www.scu.edu.cn/e_rjxy/), Sichuan University, China
+*  Jan. 2013: Internship Project Manager, [Hwadee Co. Ltd.](http://www.hwadee.com/), Chengdu, China
 
 ## Honors & Awards
 * 2016--2019: University of Macau Graduate Assistantship, University of Macau
