@@ -11,7 +11,7 @@ I am currently a Ph.D. candidate in the Natural Language Processing & Portuguese
 * Machine Translation
 
 ## Education
-* Ph.D. Excepted at 2019. University of Macau, Macau, China. Supervised by Prof. [Derek F. Wong](https://www.fst.um.edu.mo/en/staff/fstfw.html) and Prof. [Lidia S. Chao](https://www.fst.um.edu.mo/en/staff/cds/lidiasc.html).
+* Ph.D. Excepted in 2019. University of Macau, Macau, China. Supervised by Prof. [Derek F. Wong](https://www.fst.um.edu.mo/en/staff/fstfw.html) and Prof. [Lidia S. Chao](https://www.fst.um.edu.mo/en/staff/cds/lidiasc.html).
 * M.S. 2015. Waseda University, Fukuka, Japan. Supervised by Prof. [Yves Lepage](https://www.waseda.jp/fsci/gips/other-en/2015/09/08/2164/)
 * B.S. 2014. Sichuan University, Sichuan, China.
 
@@ -20,9 +20,9 @@ I am currently a Ph.D. candidate in the Natural Language Processing & Portuguese
  
 * 2018-11-01: One paper is accepted by [AAAI-2019](https://aaai.org/Conferences/AAAI-19/).
 
-* 2018-08-10: Two paper is accepted by [EMNLP-2018](https://emnlp2018.org/).
+* 2018-08-10: Two paper are accepted by [EMNLP-2018](https://emnlp2018.org/).
 
-* 2018-01-01. Internship at [Tecent AI Lab](https://ai.tencent.com/ailab/en/index). Work with Dr. [Zhaopeng Tu](http://zptu.net/). 
+* 2018-01-01. Internship at [Tecent AI Lab](https://ai.tencent.com/ailab/en/index) working with Dr. [Zhaopeng Tu](http://zptu.net/). 
 
 ## Selected Publications
 
