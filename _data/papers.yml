@@ -13,7 +13,7 @@ papers:
     paper-type: inproceedings
     selected: yes
     title: "Information Aggregation for Multi-Head Attention with Routing-by-Agreement." 
-    authors: "Jian Li, <b>Baosong Yang</b>, Zi-Yi Dou, Xing Wang, Michael R. Lyu and Zhaopeng Tu."
+    authors: "Jian Li, <b>Baosong Yang</b>, Zi-Yi Dou, Xing Wang, Michael R. Lyu and Zhaopeng Tu"
     booktitle: "<b>NAACL 2019</b>"
     venue: conference
   - layout: paper
