@@ -12,9 +12,9 @@
       {{ paper.title }}{% unless title_end == '?' %}{% endunless %}
       {% case paper.paper-type %}
         {% when "inproceedings" %}
-          <i>{{ paper.booktitle }}</i>
+          <i style="color:#090">{{ paper.booktitle }}</i>
         {% when "article" %}
-            <i>{{ paper.journal }}</i>
+           <i style="color:#090">{{ paper.journal }}</i>
       {% endcase %}
       </li>
     {% endif %}
