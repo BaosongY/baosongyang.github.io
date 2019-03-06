@@ -24,8 +24,7 @@ I am currently a Ph.D. candidate in the Natural Language Processing & Portuguese
 
 * 2018-01-01. Internship at [Tecent AI Lab](https://ai.tencent.com/ailab/en/index) working with Dr. [Zhaopeng Tu](http://zptu.net/). 
 
-## Recent Publications
-[Full List](/papers/)
+## Recent Publications [Full List](/papers/)
 <ul>
 {% for paper in site.data.papers.papers %}
   {% if paper.selected %}
