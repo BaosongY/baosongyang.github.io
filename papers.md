@@ -9,7 +9,7 @@ order:  1
 ## 2019 
 <ul>
 {% for paper in site.data.papers.papers %}
- {% if paper.year==2019 %}
+ {% if paper.year=="2019" %}
   <li>{% include paper.html paper=paper %}</li>
  {% endif %}
 {% endfor %}
@@ -17,7 +17,7 @@ order:  1
 ## 2018
 <ul>
 {% for paper in site.data.papers.papers %}
- {% if paper.year==2018 %}
+ {% if paper.year=="2018" %}
   <li>{% include paper.html paper=paper %}</li>
  {% endif %}
 {% endfor %}
@@ -25,7 +25,7 @@ order:  1
 ## 2017
 <ul>
 {% for paper in site.data.papers.papers %}
- {% if paper.year==2017 %}
+ {% if paper.year=="2017" %}
   <li>{% include paper.html paper=paper %}</li>
  {% endif %}
 {% endfor %}
@@ -33,7 +33,7 @@ order:  1
 ## 2016
 <ul>
 {% for paper in site.data.papers.papers %}
- {% if paper.year==2016 %}
+ {% if paper.year=="2016" %}
   <li>{% include paper.html paper=paper %}</li>
  {% endif %}
 {% endfor %}
@@ -41,7 +41,7 @@ order:  1
 ## 2015
 <ul>
 {% for paper in site.data.papers.papers %}
- {% if paper.year==2015 %}
+ {% if paper.year=="2015" %}
   <li>{% include paper.html paper=paper %}</li>
  {% endif %} 
 </ul>
