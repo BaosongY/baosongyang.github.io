@@ -3,7 +3,7 @@ papers:
     year: "2019"
     paper-type: inproceedings
     selected: yes
-    title: "Convolutional Self-Attention Networks." 
+    title: "Convolutional Self-Attention Networks" 
     authors: "<b>Baosong Yang</b>, Longyue Wang, Derek Wong, Lidia Chao and Zhaopeng Tu"
     booktitle: "NAACL 2019"
     doc-url: https://arxiv.org/pdf/1810.13320.pdf
