@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Baosong Yang
+title: Biography
 cover: false
 ---
-I am currently a Ph.D. candidate in the Natural Language Processing & Portuguese--Chinese Machine Translation ([NLP2CT](http://nlp2ct.cis.umac.mo/)) research group, the Department of Computer and Information Science at the University of Macau.
+Baosong is currently a fifth-year Ph.D. candidate in [NLP2CT](http://nlp2ct.cis.umac.mo/) Lab in University of Macau, being advised by Prof. [Derek F. Wong](https://www.fst.um.edu.mo/en/staff/fstfw.html). He has studied and practiced in a broad field of natural language processing such as Chinese word segmentation, named entity, semantic role labeling, question answering system, machine translation. His current research forcuses on deep learning for natural language processing (NLP), including neural machine translation (NMT),  domain adaptation, representation learning, attention mechanism, inductive bias and low-resource learning (e.g. Chinese-Portuguese), etc. 
 
 ## Interests
 * Machine Learning
