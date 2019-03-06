@@ -16,11 +16,11 @@ order:  2
 
 ## Social Experiences
 * 2018--2019: Postgraduate Intern, Tencent AI Lab, China
-* Dec. 2017: Postgraduate Intern, Zhuhai UM Science & Technology Research Institute, China
+*  Dec. 2017: Postgraduate Intern, Zhuhai UM Science & Technology Research Institute, China
 * 2016--2019: Research Assistant, NLP2CT Laboratory, University of Macau, Macau
 * 2014--2015: Research Assistant, EBMT/NLP Laboratory, Waseda University, Japan
-* 2012--2013: Student Council Vice President, Sichuan University, China
-* Jan. 2013: Internship Project Manager, Hwadee Co. Ltd., Chengdu, China
+* 2012--2013: Student Council Vice President, College of Software Engineering, Sichuan University, China
+*  Jan. 2013: Internship Project Manager, Hwadee Co. Ltd., Chengdu, China
 
 ## Honors & Awards
 * 2016--2019: University of Macau Graduate Assistantship, University of Macau
@@ -31,5 +31,4 @@ order:  2
 * 2013--2014: Excellent Graduated Student Cadres, Sichuan University
 * 2011--2012: Excellent Student Cadres, Sichuan University
 * 2010--2011: Scholarship for Individual Second Class, Sichuan University
-* 2011--2012: Excellent Student in Party School, Sichuan University
 * 2010--2011: Excellent Student, Sichuan University
