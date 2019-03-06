@@ -6,13 +6,12 @@ menu:   true
 order:  1
 ---
 [Google Scholar Citations](https://scholar.google.com/citations?user=fXsHJXkAAAAJ)
-## 2019
 <ul> 
-{% assign my_year = "2019" %} 
+{% assign my_year = "2010" %} 
 {% for paper in site.data.papers.papers %}
  {% if paper.year!=my_year %}
  {% assign my_year = paper.year %}
- ## 2019
+ ## {{ my_year }}
  {% endif %}
   <li>{% include paper.html paper=paper %}</li>
  {% endif %}
