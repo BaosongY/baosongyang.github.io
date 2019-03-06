@@ -3,12 +3,20 @@ layout: page
 title: Baosong Yang's Home Page
 cover: false
 ---
+## Biography
+I am currently a Ph.D. candidate in the Natural Language Processing & Portuguese--Chinese Machine Translation (NLP2CT) research group, the Department of Computer and Information Science at the University of Macau.
 
-I develop computational models of natural language learning, 
-understanding and generation in people and machines, and my research 
-focuses on basic scientific problems related to these models. I am 
-especially interested in modeling the rich diversity of linguistic
-phenomena across the world’s languages. 
+## Interests
+* Machine Learning
+* Natrual Language Processing
+* Machine Translation
+
+## Education
+* Ph.D in Computer Science, expected graduation at 2019.
+* MS, the Graduate School of Information, Production and Systems, Waseda University, Fukuka, Japan, 2015
+* BS, College of Software Engineering, Sichuan University, Sichuan, China, 2014
+		He received his B.Sc. with honors in the College of Software Engineering from Sichuan University, China, in 2014. He received his M.Sc. from the Graduate School of Information, Production and Systems in Waseda University, Japan, in 2015.
+		Moreover, he had internships at Tencent AI Lab (Shenzhen) in 2018.
 
 I am a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank))
 in the [Institute for Language, Cognition, and Computation](http://web.inf.ed.ac.uk/ilcc)
