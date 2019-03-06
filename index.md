@@ -9,18 +9,18 @@ I am currently a Ph.D. candidate in the Natural Language Processing & Portuguese
 * Natrual Language Processing
 * Machine Translation
 ## Education
-* Ph.D. excepted at 2019. University of Macau.
-* M.S. 2015. The Graduate School of Information, Production and Systems, Waseda University, Fukuka, Japan.
-* B.S. 2014. College of Software Engineering, Sichuan University, Sichuan, China.
+* Ph.D. Excepted at 2019. University of Macau, Macau, China.
+* M.S. 2015. Waseda University, Fukuka, Japan.
+* B.S. 2014. Sichuan University, Sichuan, China.
 		Moreover, he had internships at Tencent AI Lab (Shenzhen) in 2018.
 ## News
-* Feb 2019, three papers are accepted by NAACL-2019.
+* 2019-02-23: Three papers are accepted by NAACL-2019.
  
-* Nov 2018, one paper is accepted by AAAI-2019.
+* 2018-11-01: One paper is accepted by AAAI-2019.
 
-* May 2019, two paper is accepted by EMNLP-2018.
+* 2018-08-10: Two paper is accepted by EMNLP-2018.
 
-* Jan 2018, I intern at Tecent AI lab working with Dr. Zhaopeng Tu. 
+* 2018-01-01. intern at Tecent AI lab working with Dr. Zhaopeng Tu. 
 
 ## Selected Publications
 
