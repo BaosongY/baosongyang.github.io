@@ -41,8 +41,8 @@ author:
   name:                Baosong Yang
   picture:             /assets/img/me.jpg
   social:
-    email:               'nlp2ct.baosong@gmail.com'
-    github:              baosongyang
+    email:               'nlp2ct.baosong[AT]gmail.com'
+    #:              baosongyang
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
