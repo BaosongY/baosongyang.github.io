@@ -12,10 +12,9 @@ I am currently a Ph.D. candidate in the Natural Language Processing & Portuguese
 * Machine Translation
 
 ## Education
-* Ph.D in Computer Science, expected graduation at 2019.
-* MS, the Graduate School of Information, Production and Systems, Waseda University, Fukuka, Japan, 2015
-* BS, College of Software Engineering, Sichuan University, Sichuan, China, 2014
-		He received his B.Sc. with honors in the College of Software Engineering from Sichuan University, China, in 2014. He received his M.Sc. from the Graduate School of Information, Production and Systems in Waseda University, Japan, in 2015.
+* Ph.D. excepted at 2019. University of Macau.
+* M.S. 2015. The Graduate School of Information, Production and Systems, Waseda University, Fukuka, Japan.
+* B.S. 2014. College of Software Engineering, Sichuan University, Sichuan, China.
 		Moreover, he had internships at Tencent AI Lab (Shenzhen) in 2018.
 
 I am a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank))
