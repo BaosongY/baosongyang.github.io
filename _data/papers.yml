@@ -60,11 +60,10 @@ papers:
     img: daga-cl
     title: "Leveraging the Advantages of Associative Alignment Methods for PB-SMT Systems"
     authors: "<b>Baosong Yang</b> and Yves Lepage"
-    journal: LTC-LNAI, Springer
+    journal: LTC-LNAI, Springer, 2016
     journal-url: https://link.springer.com/chapter/10.1007/978-3-319-93782-3_16
     doc-url: https://link.springer.com/content/pdf/10.1007%2F978-3-319-93782-3_16.pdf
     venue: journal
-    volume: 10930
   - layout: paper
     paper-type: inproceedings
     selected: no
