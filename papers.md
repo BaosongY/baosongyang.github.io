@@ -44,5 +44,6 @@ order:  1
  {% if paper.year=="2015" %}
   <li>{% include paper.html paper=paper %}</li>
  {% endif %} 
+{% endfor %} 
 </ul>
 
