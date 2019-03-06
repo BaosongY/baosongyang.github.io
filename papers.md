@@ -5,7 +5,6 @@ cover:  false
 menu:   true
 order:  1
 ---
-
 [Google Scholar Citations](https://scholar.google.com/citations?user=fXsHJXkAAAAJ)
 ## 2019 
 <ul>
