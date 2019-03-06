@@ -1,6 +1,6 @@
 # NOTICE
 
-Copyright (c) 2018 Adam Lopez <https://alopez.github.io/>
+Copyright (c) 2019 Baosong Yang <https://baosongyang.site/>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
