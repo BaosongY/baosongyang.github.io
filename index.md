@@ -27,7 +27,7 @@ Baosong is currently a fifth-year Ph.D. candidate in [NLP2CT](http://nlp2ct.cis.
 * B.S. 2014. Sichuan University, Sichuan, China.
 
 ## Recent Publications
-[Full List](/papers/)
+[Full List](/publications/)
 <ul>
 {% for paper in site.data.papers.papers %}
   {% if paper.selected %}
