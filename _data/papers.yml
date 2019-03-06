@@ -64,6 +64,6 @@ papers:
     selected: yes
     title: "Towards Bidirectional Hierarchical Representations for Attention-Based Neural Machine Translation." 
     authors: "<b>Baosong Yang</b>, Derek Wong, Tong Xiao, Lidia Chao and Jingbo Zhu"
-    booktitle: "<b>EMNLP</b> 2017"
+    booktitle: "<b>EMNLP 2017</b>"
     doc-url: http://aclweb.org/anthology/D17-1150
     venue: conference
