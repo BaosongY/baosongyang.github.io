@@ -54,11 +54,46 @@ papers:
     doc-url: http://aclweb.org/anthology/D17-1150
     venue: conference
   - layout: paper
-    year: 2018
+    year: 2016
+    paper-type: article
+    selected: no
+    img: daga-cl
+    title: "Leveraging the Advantages of Associative Alignment Methods for PB-SMT Systems"
+    authors: "<b>Baosong Yang</b> and Yves Lepage"
+    journal: LTC-LNAI, Springer
+    journal-url: https://link.springer.com/chapter/10.1007/978-3-319-93782-3_16
+    doc-url: https://link.springer.com/content/pdf/10.1007%2F978-3-319-93782-3_16.pdf
+    venue: journal
+    volume: 10930
+- layout: paper
+    paper-type: inproceedings
+    selected: no
+    title: "Fast Training for Statistical Machine Translation Systems."
+    authors: "<b>Baosong Yang</b>, Kwankajormkiet Chonlathorn, Jun Li and Yves Lepage"
+    booktitle: ISIPS 2015
+    doc-url: http://ltc.amu.edu.pl/a2015/book/papers/MT-2.pdf
+    venue: conference   
+  - layout: paper
     paper-type: inproceedings
     selected: no
     title: "Sampling-based Alignment and Hierarchical Sub-sentential Alignment in Chinese-Japanese Translation of Patents."
     authors: "Wei Yang, Zhongwen Zhao, <b>Baosong Yang</b> and Yves Lepage"
     booktitle: WAT 2015
     doc-url: http://aclweb.org/anthology/W15-5011
-    venue: workshop     
+    venue: workshop
+  - layout: paper
+    paper-type: inproceedings
+    selected: no
+    title: "Multi-processing and Approximations in Associative Methods for Faster Training of SMT Systems."
+    authors: "<b>Baosong Yang</b> and Yves Lepage"
+    booktitle: LTC 2015
+    doc-url: http://ltc.amu.edu.pl/a2015/book/papers/MT-2.pdf
+    venue: conference    
+  - layout: paper
+    paper-type: inproceedings
+    selected: no
+    title: "Faster Development of Statistical Machine Translation Systems with Sampling-based Alignment and Hierarchical Sub-sentential Alignment."
+    authors: "<b>Baosong Yang</b>, Hao Wang, and Yves Lepage"
+    booktitle: ANLP 2015
+    doc-url: http://www.anlp.jp/proceedings/annual_meeting/2015/pdf_dir/A5-4.pdf
+    venue: conference     
