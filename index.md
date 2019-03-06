@@ -3,7 +3,7 @@ layout: page
 title: Baosong Yang
 cover: false
 ---
-I am currently a Ph.D. candidate in the Natural Language Processing & Portuguese--Chinese Machine Translation (NLP2CT) research group, the Department of Computer and Information Science at the University of Macau.
+I am currently a Ph.D. candidate in the Natural Language Processing & Portuguese--Chinese Machine Translation ([NLP2CT](http://nlp2ct.cis.umac.mo/)) research group, the Department of Computer and Information Science at the University of Macau.
 
 ## Interests
 * Machine Learning
