@@ -20,8 +20,8 @@ Baosong is currently a fifth-year Ph.D. candidate in [NLP2CT](http://nlp2ct.cis.
 * Machine Translation
 
 ## Education
-* Ph.D. Excepted in 2019. University of Macau, Macau, China. Supervised by Prof. [Derek F. Wong](https://www.fst.um.edu.mo/en/staff/fstfw.html) and Prof. [Lidia S. Chao](https://www.fst.um.edu.mo/en/staff/cds/lidiasc.html).
-* M.S. 2015. Waseda University, Fukuka, Japan. Supervised by Prof. [Yves Lepage](https://www.waseda.jp/fsci/gips/other-en/2015/09/08/2164/)
+* Ph.D. Excepted in 2019. University of Macau, Macau, China.<\br>Supervised by Prof. [Derek F. Wong](https://www.fst.um.edu.mo/en/staff/fstfw.html) and Prof. [Lidia S. Chao](https://www.fst.um.edu.mo/en/staff/cds/lidiasc.html).
+* M.S. 2015. Waseda University, Fukuka, Japan.<\br>Supervised by Prof. [Yves Lepage](https://www.waseda.jp/fsci/gips/other-en/2015/09/08/2164/)
 * B.S. 2014. Sichuan University, Sichuan, China.
 
 ## Recent Publications
