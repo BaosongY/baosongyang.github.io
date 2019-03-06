@@ -3,7 +3,7 @@
 # You can change `author1` to your shortname.
 author1:
   name:              Baosong Yang
-  email:             nlp2ct[DOT]baosong[AT]gmail[DOT]com
+  email:             nlp2ct.baosong.gmail@@com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -17,7 +17,7 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    email:             nlp2ct[DOT]baosong[AT]gmail[DOT]com
+    email:             nlp2ct.baosong.gmail@@com
     #Telegram:          +853 88222542
     #twitter:           there_are_two_
     linkedin:        <Baosong-Yang-210840157>
