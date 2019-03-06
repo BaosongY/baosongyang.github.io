@@ -29,7 +29,7 @@ I am currently a Ph.D. candidate in the Natural Language Processing & Portuguese
 <ul>
 {% for paper in site.data.papers.papers %}
   {% if paper.selected %}
-  <li>
+  <li style="font-size:40px">
   {% include paper.html paper=paper %}
   </li>
   {% endif %}
