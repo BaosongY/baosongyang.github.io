@@ -65,7 +65,7 @@ papers:
     doc-url: https://link.springer.com/content/pdf/10.1007%2F978-3-319-93782-3_16.pdf
     venue: journal
     volume: 10930
-- layout: paper
+  - layout: paper
     paper-type: inproceedings
     selected: no
     title: "Fast Training for Statistical Machine Translation Systems."
