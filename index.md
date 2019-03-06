@@ -45,14 +45,14 @@ Baosong is currently a fifth-year Ph.D. candidate in [NLP2CT](http://nlp2ct.cis.
 * EMNLP-2018:  Reviewer
 
 ## Experience
-# Academic Projects
+### Academic Projects
 * 2017--2020: Research on Domain Adaptation for Low-Resource Chinese-Portuguese Machine Translation in Big Data Era: Methodology and Its Implementation, National Natural Science Foundation of China.
 * 2016--2018: Um2T Online Zh-En-Pt Machine Translation System,Universiy of Macau
 * 2016--2019: Enhancing Neural MT via Linguistic Information, University of Macau
 * 2016--2019: Model-Driven Software Development from Requirement Description to Code Generation, Science and Technology Development Fund of Macau
 * 2013--2015: Leveraging the Advantages of Associative Methods for Faster Training of SMT Systems, IPS, Waseda University
 * 2012--2014: QA System for Sichuan University, Rudiment Fund of Sichuan University
-# Social Experiences
+### Social Experiences
 * 2018--2019: Postgraduate Intern, Tencent AI Lab, China
 * Dec. 2017: Postgraduate Intern, Zhuhai UM Science & Technology Research Institute, China
 * 2016--2019: Research Assistant, NLP2CT Laboratory, University of Macau, Macau
