@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Baosong Yang's Home Page
+title: Baosong Yang
 cover: false
 ---
 ## Biography
