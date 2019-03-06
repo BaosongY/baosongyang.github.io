@@ -13,7 +13,7 @@ order:  1
  <h2>{{ my_year }}</h2>
  {% endif %}
  <ul> 
-  <li style="font-size:40px">{% include paper.html paper=paper %}</li>
+  <li>{% include paper.html paper=paper %}</li>
  </ul>
 {% endfor %}
  
