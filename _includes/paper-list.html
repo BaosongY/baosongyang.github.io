@@ -10,7 +10,6 @@
       {% endif %} 
       {% capture title_end %}{{ paper.title | slice: -1 }}{% endcapture %}
       {{ paper.title }}{% unless title_end == '?' %}.{% endunless %}
-      In
       {% case paper.paper-type %}
         {% when "inproceedings" %}
           <i>{{ paper.booktitle }}</i>.
