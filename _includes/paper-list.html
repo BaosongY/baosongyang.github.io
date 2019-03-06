@@ -15,9 +15,7 @@
         {% when "inproceedings" %}
           <i>{{ paper.booktitle }}</i>.
         {% when "article" %}
-            <i>{{ paper.journal }}</i>,
-            {% if paper.volume %}{{ paper.volume }}{% if paper.number %}({{ paper.number }}){% endif %}.{% endif %}
-            {% if paper.article%}Article {{ paper.article}}.{% endif %}
+            <i>{{ paper.journal }}</i>.
       {% endcase %}
       </li>
     {% endif %}
