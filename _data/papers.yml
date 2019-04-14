@@ -6,7 +6,7 @@ papers:
     title: "Convolutional Self-Attention Networks" 
     authors: "<b>Baosong Yang</b>, Longyue Wang, Derek Wong, Lidia Chao and Zhaopeng Tu"
     booktitle: "NAACL 2019"
-    doc-url: https://arxiv.org/pdf/1810.13320.pdf
+    doc-url: https://arxiv.org/pdf/1904.03107.pdf
     venue: conference 
   - layout: paper
     year: "2019"
@@ -15,6 +15,7 @@ papers:
     title: "Information Aggregation for Multi-Head Attention with Routing-by-Agreement." 
     authors: "Jian Li, <b>Baosong Yang</b>, Zi-Yi Dou, Xing Wang, Michael R. Lyu and Zhaopeng Tu"
     booktitle: "NAACL 2019"
+    doc-url: https://arxiv.org/pdf/1904.03100.pdf
     venue: conference
   - layout: paper
     year: "2019"
@@ -23,6 +24,7 @@ papers:
     title: "Modeling Recurrence for Transformer." 
     authors: "Jie Hao, Xing Wang, <b>Baosong Yang</b>, Longyue Wang, Jinfeng Zhang and Zhaopeng Tu"
     booktitle: "NAACL 2019"
+    doc-url: https://arxiv.org/pdf/1904.03092.pdf    
     venue: conference 
   - layout: paper
     year: "2019"
