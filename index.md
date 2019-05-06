@@ -39,7 +39,4 @@ Baosong is currently a fourth-year Ph.D. candidate in [NLP2CT](http://nlp2ct.cis
 </ul>
 
 ## Professional Services
-* ACL-2019:    Reviewer
-* NAACL-2019:  Reviewer
-* AAAI-2019:   PC Member/Reviewer
-* EMNLP-2018:  Reviewer
+* Reviewer: ACL, EMNLP, NAACL, AAAI, NLPCC, CCL, etc.
