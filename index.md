@@ -12,7 +12,7 @@ Baosong is currently a fourth-year Ph.D. candidate in [NLP2CT](http://nlp2ct.cis
  
 * 2018-11-01: One paper is accepted by [AAAI-2019](https://aaai.org/Conferences/AAAI-19/).
 
-* 2018-08-10: Two paper are accepted by [EMNLP-2018](https://emnlp2018.org/).
+* 2018-08-10: Two papers are accepted by [EMNLP-2018](https://emnlp2018.org/).
 
 * 2018-01-01: Internship at [Tecent AI Lab](https://ai.tencent.com/ailab/en/index) working with Dr. [Zhaopeng Tu](http://zptu.net/). 
 
