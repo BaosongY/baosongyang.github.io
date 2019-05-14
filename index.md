@@ -18,7 +18,7 @@ Baosong is currently a fourth-year Ph.D. candidate in [NLP2CT](http://nlp2ct.cis
 
 ## Interests
 * Machine Learning
-* Natrual Language Processing
+* Natural Language Processing
 * Machine Translation
 
 ## Education
