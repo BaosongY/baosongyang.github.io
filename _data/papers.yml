@@ -3,6 +3,22 @@ papers:
     year: "2019"
     paper-type: inproceedings
     selected: yes
+    title: "Assessing the Ability of Self-Attention Networks to Learn Word Order" 
+    authors: "<b>Baosong Yang</b>, Longyue Wang, Derek Wong, Lidia Chao and Zhaopeng Tu"
+    booktitle: "ACL 2019"
+    venue: conference 
+  - layout: paper
+    year: "2019"
+    paper-type: inproceedings
+    selected: yes
+    title: "Leveraging Local and Global Patterns for Self-Attention Networks" 
+    authors: "Mingzhou Xu, Derek Wong, <b>Baosong Yang</b>, Yue Zhang and Lidia Chao"
+    booktitle: "ACL 2019"
+    venue: conference     
+  - layout: paper
+    year: "2019"
+    paper-type: inproceedings
+    selected: yes
     title: "Convolutional Self-Attention Networks" 
     authors: "<b>Baosong Yang</b>, Longyue Wang, Derek Wong, Lidia Chao and Zhaopeng Tu"
     booktitle: "NAACL 2019"
