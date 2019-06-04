@@ -6,6 +6,7 @@ papers:
     title: "Assessing the Ability of Self-Attention Networks to Learn Word Order" 
     authors: "<b>Baosong Yang</b>, Longyue Wang, Derek Wong, Lidia Chao and Zhaopeng Tu"
     booktitle: "ACL 2019"
+    doc-url: https://arxiv.org/pdf/1906.00592.pdf   
     venue: conference 
   - layout: paper
     year: "2019"
