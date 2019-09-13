@@ -15,8 +15,18 @@ papers:
     title: "Leveraging Local and Global Patterns for Self-Attention Networks" 
     authors: "Mingzhou Xu, Derek Wong, <b>Baosong Yang</b>, Yue Zhang and Lidia Chao"
     booktitle: "ACL 2019"
-    doc-url: https://github.com/scewiner/Leveraging
-    venue: conference     
+    doc-url: https://www.aclweb.org/anthology/P19-1295
+    venue: conference
+  - layout: paper
+    year: "2019"
+    paper-type: article
+    selected: yes
+    img: daga-cl
+    title: "Improving Neural Machine Translation with Dynamic Lexicalized Dependency Encoding"
+    authors: "<b>Baosong Yang</b>, Derek Wong, Lidia Chao and Min Zhang"
+    journal: Knowlege-Based Systems, Elsevier, 2019 (SCI, JCR: Q1)
+    journal-url: https://www.journals.elsevier.com/knowledge-based-systems
+    venue: journal
   - layout: paper
     year: "2019"
     paper-type: inproceedings
