@@ -1,5 +1,21 @@
 papers:
   - layout: paper
+    year: "2020"
+    paper-type: inproceedings
+    selected: yes
+    title: "Unsupervised Neural Dialect Translation with Commonality and Diversity Modeling" 
+    authors: "Yu Wan, <b>Baosong Yang</b>, Derek Wong, Lidia Chao, Haihua Du and Ben Ao"
+    booktitle: "AAAI 2020"   
+    venue: conference 
+  - layout: paper
+    year: "2020"
+    paper-type: inproceedings
+    selected: yes
+    title: "Neuron Interaction Based Representation Composition for Neural Machine Translation" 
+    authors: "Jian Li, Xing Wang, <b>Baosong Yang</b>, Shuming Shi, Michael Lyu and Zhaopeng Tu"
+    booktitle: "AAAI 2020"   
+    venue: conference 
+  - layout: paper
     year: "2019"
     paper-type: inproceedings
     selected: yes
