@@ -15,7 +15,7 @@ order:  2
 * 2012--2014: QA System for Sichuan University, Rudiment Fund of Sichuan University
 
 ## Social Experiences
-* 2018--2019: Postgraduate Intern, [Tencent AI Lab](https://ai.tencent.com/ailab/en/index/), China
+* 2018--2019: Postgraduate Intern working with Dr. [Zhaopeng Tu](http://zptu.net/), [Tencent AI Lab](https://ai.tencent.com/ailab/en/index/), China
 *  Dec. 2017: Postgraduate Intern, [Zhuhai UM Science & Technology Research Institute](https://zumri.um.edu.mo/), China
 * 2016--2019: Research Assistant, [NLP2CT Laboratory](http://nlp2ct.cis.umac.mo/), University of Macau, Macau
 * 2014--2015: Research Assistant, [EBMT/NLP Laboratory](http://lepage-lab.ips.waseda.ac.jp/en/), Waseda University, Japan
