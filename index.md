@@ -6,6 +6,8 @@ cover: false
 Baosong is currently a fourth-year Ph.D. candidate in [NLP2CT](http://nlp2ct.cis.umac.mo/) Lab of University of Macau, being advised by Prof. [Derek F. Wong](https://www.fst.um.edu.mo/en/staff/fstfw.html). He has studied and practiced in a broad field of natural language processing (NLP) such as Chinese word segmentation, named entity, semantic role labeling, question answering system, machine translation. His current research focuses on deep learning for NLP, including neural machine translation (NMT),  domain adaptation, representation learning, attention mechanism, inductive bias and low-resource learning.
 
 ## News
+* 2019-11-11: Two papers are accepted by [AAAI-2020](https://aaai.org/Conferences/AAAI-20/).
+
 * 2019-09-08: One paper is accepted by [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems).
 
 * 2019-05-14: Two papers are accepted by [ACL-2019](http://www.acl2019.org/).
@@ -15,8 +17,6 @@ Baosong is currently a fourth-year Ph.D. candidate in [NLP2CT](http://nlp2ct.cis
 * 2018-11-01: One paper is accepted by [AAAI-2019](https://aaai.org/Conferences/AAAI-19/).
 
 * 2018-08-10: Two papers are accepted by [EMNLP-2018](https://emnlp2018.org/).
-
-* 2018-01-01: Internship at [Tecent AI Lab](https://ai.tencent.com/ailab/en/index) working with Dr. [Zhaopeng Tu](http://zptu.net/). 
 
 ## Interests
 * Machine Learning
