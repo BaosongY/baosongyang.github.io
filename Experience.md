@@ -2,7 +2,7 @@
 layout: page
 title:  Experience
 cover:  false
-menu:   true
+menu:   false
 order:  2
 ---
 
