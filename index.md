@@ -22,7 +22,7 @@ I am currently an Algorithm Expert in the [Language Technology Lab](https://damo
 * Machine Translation
 
 ## Education
-* Ph.D. Expected in 2019. University of Macau, Macau, China.
+* Ph.D. 2019. University of Macau, Macau, China.
   Supervised by Prof. [Derek F. Wong](https://www.fst.um.edu.mo/en/staff/fstfw.html) and Prof. [Lidia S. Chao](https://www.fst.um.edu.mo/en/staff/cds/lidiasc.html).
 * M.S. 2015. Waseda University, Fukuka, Japan.
   Supervised by Prof. [Yves Lepage](https://www.waseda.jp/fsci/gips/other-en/2015/09/08/2164/)
