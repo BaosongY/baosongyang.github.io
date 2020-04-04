@@ -3,9 +3,18 @@ papers:
     year: "2020"
     paper-type: inproceedings
     selected: yes
+    title: "Uncertainty-Aware Curriculum Learning for Neural Machine Translation" 
+    authors: "Yikai Zhou, <b>Baosong Yang</b>, Derek Wong, Yu Wan and Lidia S. Chao"
+    booktitle: "ACL 2020"   
+    venue: conference 
+  - layout: paper
+    year: "2020"
+    paper-type: inproceedings
+    selected: yes
     title: "Unsupervised Neural Dialect Translation with Commonality and Diversity Modeling" 
     authors: "Yu Wan, <b>Baosong Yang</b>, Derek Wong, Lidia Chao, Haihua Du and Ben Ao"
-    booktitle: "AAAI 2020"   
+    booktitle: "AAAI 2020"
+    doc-url: https://arxiv.org/pdf/1912.05134.pdf  
     venue: conference 
   - layout: paper
     year: "2020"
@@ -13,7 +22,8 @@ papers:
     selected: yes
     title: "Neuron Interaction Based Representation Composition for Neural Machine Translation" 
     authors: "Jian Li, Xing Wang, <b>Baosong Yang</b>, Shuming Shi, Michael Lyu and Zhaopeng Tu"
-    booktitle: "AAAI 2020"   
+    booktitle: "AAAI 2020" 
+    doc-url: https://arxiv.org/pdf/1911.09877.pdf     
     venue: conference 
   - layout: paper
     year: "2019"
