@@ -12,7 +12,7 @@ papers:
     paper-type: inproceedings
     selected: yes
     title: "Unsupervised Neural Dialect Translation with Commonality and Diversity Modeling" 
-    authors: "Yu Wan, <b>Baosong Yang</b>, Derek Wong, Lidia Chao, Haihua Du and Ben Ao"
+    authors: "Yu Wan*, <b>Baosong Yang</b>*, Derek Wong, Lidia Chao, Haihua Du and Ben Ao"
     booktitle: "AAAI 2020"
     doc-url: https://arxiv.org/pdf/1912.05134.pdf  
     venue: conference 
