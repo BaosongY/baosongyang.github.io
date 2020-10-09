@@ -3,8 +3,40 @@ papers:
     year: "2020"
     paper-type: inproceedings
     selected: yes
+    title: "Domain Transfer based Data Augmentation for Neural Query Translation" 
+    authors: "Liang Yao, <b>Baosong Yang</b>, Zhang haibo, Boxing Chen and Weihua Luo"
+    booktitle: "COLING 2020"   
+    venue: conference 
+  - layout: paper
+    year: "2020"
+    paper-type: inproceedings
+    selected: yes
+    title: "Self-Paced Learning for Neural Machine Translation" 
+    authors: "Yu Wan, <b>Baosong Yang</b>, Derek Wong, Yikai Zhou, Lidia Chao, Haibo Zhang and Boxing Chen"
+    booktitle: "EMNLP 2020"   
+    venue: conference
+  - layout: paper
+    year: "2020"
+    paper-type: inproceedings
+    selected: no
+    title: "Constraint Translation Candidates: A Bridge between NeuralQuery Translation and Cross-lingual Information Retrieval" 
+    authors: "Tianchi Bi, Liang Yao, <b>Baosong Yang</b>, Haibo Zhang, Weihua Luo, Boxing Chen"
+    booktitle: "SIGIR-Ecom 2020"   
+    venue: conference 
+  - layout: paper
+    year: "2020"
+    paper-type: inproceedings
+    selected: no
+    title: "Exploiting Neural Query Translation intoCross Lingual Information Retrieval" 
+    authors: "Liang Yao, <b>Baosong Yang</b>, Haibo Zhang, Weihua Luo, Boxing Chen"
+    booktitle: "SIGIR-Ecom 2020"   
+    venue: conference 
+  - layout: paper
+    year: "2020"
+    paper-type: inproceedings
+    selected: yes
     title: "Uncertainty-Aware Curriculum Learning for Neural Machine Translation" 
-    authors: "Yikai Zhou, <b>Baosong Yang</b>, Derek Wong, Yu Wan and Lidia S. Chao"
+    authors: "Yikai Zhou, <b>Baosong Yang</b>, Derek Wong, Yu Wan and Lidia Chao"
     booktitle: "ACL 2020"   
     venue: conference 
   - layout: paper
