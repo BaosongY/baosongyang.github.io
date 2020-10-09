@@ -3,20 +3,20 @@ layout: page
 title: Baosong Yang
 cover: false
 ---
-I am currently an Algorithm Expert in the [Language Technology Lab](https://damo.alibaba.com/labs/language-technology?lang=en) at [Alibaba DAMO Academy](https://damo.alibaba.com). I received my Ph.D at [NLP2CT](http://nlp2ct.cis.umac.mo/) Lab of University of Macau, advised by Prof. [Derek F. Wong](https://www.fst.um.edu.mo/en/staff/fstfw.html). I have studied and practiced in a broad field of natural language processing (NLP) such as Chinese word segmentation, named entity, semantic role labeling, question answering system, machine translation. My current research focuses on deep learning for NLP, including neural machine translation (NMT),  domain adaptation, representation learning, attention mechanism, inductive bias and low-resource learning.
+I am currently an Algorithm Expert in the [Language Technology Lab](https://damo.alibaba.com/labs/language-technology?lang=en) at [Alibaba DAMO Academy](https://damo.alibaba.com). I received my Ph.D at [NLP2CT](http://nlp2ct.cis.umac.mo/) Lab of University of Macau, advised by Prof. [Derek F. Wong](https://www.fst.um.edu.mo/en/staff/fstfw.html). I have studied and practiced in a broad field of natural language processing (NLP) such as Chinese word segmentation, named entity, semantic role labeling, question answering system, machine translation. My current research focuses on deep learning for NLP, including neural machine translation (NMT),  cross-lingual language model (XLM), cross-lingual information retrieval (CLIR).
 
 ## News
+* 2019-04-04: One paper is accepted by [COLING-2020](https://coling2020.org/#).
+
+* 2019-04-04: One paper is accepted by [EMNLP-2020](https://2020.emnlp.org/).
+
+* 2019-11-11: Two papers are accepted by [SIGIR-Ecom-2020](https://sigir-ecom.github.io/).
+
 * 2019-04-04: One paper is accepted by [ACL-2020](http://www.acl2020.org/).
 
 * 2020-02-24: Join [Alibaba DAMO Academy](https://damo.alibaba.com).
 
 * 2019-11-11: Two papers are accepted by [AAAI-2020](https://aaai.org/Conferences/AAAI-20/).
-
-* 2019-09-08: One paper is accepted by [Knowledge-Based Systems](https://www.journals.elsevier.com/knowledge-based-systems).
-
-* 2019-05-14: Two papers are accepted by [ACL-2019](http://www.acl2019.org/).
-
-* 2019-02-23: Three papers are accepted by [NAACL-2019](https://naacl2019.org/).
 
 ## Interests
 * Machine Learning
@@ -43,4 +43,4 @@ I am currently an Algorithm Expert in the [Language Technology Lab](https://damo
 </ul>
 
 ## Professional Services
-* PC Member/Reviewer: ACL, EMNLP, NAACL, AAAI, NLPCC, CCL, etc.
+* PC Member/Reviewer: ACL, AAAI, EMNLP, NAACL, NLPCC, CCL, etc.
