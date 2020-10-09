@@ -21,7 +21,8 @@ papers:
     selected: no
     title: "Constraint Translation Candidates: A Bridge between NeuralQuery Translation and Cross-lingual Information Retrieval" 
     authors: "Tianchi Bi, Liang Yao, <b>Baosong Yang</b>, Haibo Zhang, Weihua Luo, Boxing Chen"
-    booktitle: "SIGIR-Ecom 2020"   
+    booktitle: "SIGIR-Ecom 2020"
+    doc-url: https://sigir-ecom.github.io/ecom20Papers/paper29.pdf 
     venue: conference 
   - layout: paper
     year: "2020"
@@ -29,7 +30,8 @@ papers:
     selected: no
     title: "Exploiting Neural Query Translation intoCross Lingual Information Retrieval" 
     authors: "Liang Yao, <b>Baosong Yang</b>, Haibo Zhang, Weihua Luo, Boxing Chen"
-    booktitle: "SIGIR-Ecom 2020"   
+    booktitle: "SIGIR-Ecom 2020"
+    doc-url: https://sigir-ecom.github.io/ecom20Papers/paper15.pdf   
     venue: conference 
   - layout: paper
     year: "2020"
@@ -37,7 +39,8 @@ papers:
     selected: yes
     title: "Uncertainty-Aware Curriculum Learning for Neural Machine Translation" 
     authors: "Yikai Zhou, <b>Baosong Yang</b>, Derek Wong, Yu Wan and Lidia Chao"
-    booktitle: "ACL 2020"   
+    booktitle: "ACL 2020"
+    doc-url: https://www.aclweb.org/anthology/2020.acl-main.620.pdf
     venue: conference 
   - layout: paper
     year: "2020"
@@ -78,7 +81,7 @@ papers:
   - layout: paper
     year: "2019"
     paper-type: article
-    selected: yes
+    selected: no
     img: daga-cl
     title: "Improving Neural Machine Translation with Dynamic Lexicalized Dependency Encoding"
     authors: "<b>Baosong Yang</b>, Derek Wong, Lidia Chao and Min Zhang"
