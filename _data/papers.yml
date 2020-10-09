@@ -12,7 +12,7 @@ papers:
     paper-type: inproceedings
     selected: yes
     title: "Self-Paced Learning for Neural Machine Translation" 
-    authors: "Yu Wan, <b>Baosong Yang</b>, Derek Wong, Yikai Zhou, Lidia Chao, Haibo Zhang and Boxing Chen"
+    authors: "Yu Wan, <b>Baosong Yang</b>*, Derek Wong*, Yikai Zhou, Lidia Chao, Haibo Zhang and Boxing Chen"
     booktitle: "EMNLP 2020"   
     venue: conference
   - layout: paper
