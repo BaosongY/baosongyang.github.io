@@ -1,11 +1,20 @@
 papers:
   - layout: paper
+    year: "2021"
+    paper-type: inproceedings
+    selected: yes
+    title: "Multi-Hop Transformer for Document-Level Machine Translation" 
+    authors: "Long Zhang, Tong Zhang, Zhang Haibo, <b>Baosong Yang</b>, Wei Ye and Shikun Zhang"
+    booktitle: "NAACL 2021"
+    venue: conference 
+  - layout: paper
     year: "2020"
     paper-type: inproceedings
     selected: yes
     title: "Domain Transfer based Data Augmentation for Neural Query Translation" 
-    authors: "Liang Yao, <b>Baosong Yang</b>, Zhang haibo, Boxing Chen and Weihua Luo"
-    booktitle: "COLING 2020"   
+    authors: "Liang Yao, <b>Baosong Yang</b>, Haibo Zhang, Boxing Chen and Weihua Luo"
+    booktitle: "COLING 2020"
+    doc-url: https://www.aclweb.org/anthology/2020.coling-main.399.pdf
     venue: conference 
   - layout: paper
     year: "2020"
@@ -13,7 +22,8 @@ papers:
     selected: yes
     title: "Self-Paced Learning for Neural Machine Translation" 
     authors: "Yu Wan, <b>Baosong Yang</b>*, Derek Wong*, Yikai Zhou, Lidia Chao, Haibo Zhang and Boxing Chen"
-    booktitle: "EMNLP 2020"   
+    booktitle: "EMNLP 2020"
+    doc-url: https://www.aclweb.org/anthology/2020.emnlp-main.80.pdf
     venue: conference
   - layout: paper
     year: "2020"
