@@ -5,6 +5,8 @@ cover: false
 ---
 I am currently an Algorithm Expert in the [Language Technology Lab](https://damo.alibaba.com/labs/language-technology?lang=en) at [Alibaba DAMO Academy](https://damo.alibaba.com). I received my Ph.D at [NLP2CT](http://nlp2ct.cis.umac.mo/) Lab of University of Macau, advised by Prof. [Derek F. Wong](https://www.fst.um.edu.mo/en/staff/fstfw.html). I have studied and practiced in a broad field of natural language processing (NLP) such as Chinese word segmentation, named entity, semantic role labeling, question answering system, machine translation. My current research focuses on deep learning for NLP, including neural machine translation (NMT),  cross-lingual language model (XLM), cross-lingual information retrieval (CLIR).
 
+We have some research intern positions available in Alibaba DAMO Academy. If you are interested in NLP and ML, please feel free to contact me: nlp2ct[DOT]baosong[AT]gmail[DOT]com.
+
 ## News
 * 2021-03-10: One paper is accepted by [NAACL-2021](https://2021.naacl.org/).
 
