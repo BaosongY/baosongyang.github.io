@@ -8,7 +8,7 @@ I am currently an Algorithm Expert in the [Language Technology Lab](https://damo
 We have some research intern positions available in Alibaba DAMO Academy. If you are interested in NLP and ML, please feel free to contact me: nlp2ct.baosong[AT]gmail.com.
 
 ## News
-* 2021-03-10: Two papers are accepted by [ACL-2021](https://2021.aclweb.org/).
+* 2021-05-05: Two papers are accepted by [ACL-2021](https://2021.aclweb.org/).
 
 * 2021-03-10: One paper is accepted by [NAACL-2021](https://2021.naacl.org/).
 
