@@ -3,6 +3,22 @@ papers:
     year: "2021"
     paper-type: inproceedings
     selected: yes
+    title: "Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation" 
+    authors: "Xin Liu, <b>Baosong Yang</b>, Dayiheng Liu, Haibo Zhang, Weihua Luo, Min Zhang, Haiying Zhang and Jinsong Su"
+    booktitle: "ACL 2021"
+    venue: conference 
+  - layout: paper
+    year: "2021"
+    paper-type: inproceedings
+    selected: yes
+    title: "Towards User-Driven Neural Machine Translation" 
+    authors: "Huan Lin, Liang Yao, <b>Baosong Yang</b>, Dayiheng Liu, Haibo Zhang, Weihua Luo, Degen Huang and Jinsong Su"
+    booktitle: "ACL 2021"
+    venue: conference 
+  - layout: paper
+    year: "2021"
+    paper-type: inproceedings
+    selected: yes
     title: "Multi-Hop Transformer for Document-Level Machine Translation" 
     authors: "Long Zhang, Tong Zhang, Zhang Haibo, <b>Baosong Yang</b>, Wei Ye and Shikun Zhang"
     booktitle: "NAACL 2021"
