@@ -5,7 +5,7 @@ papers:
     selected: yes
     title: "Leveraging Advantages of Interactive and Non-Interactive Models for Vector-Based Cross-Lingual Information Retrieval" 
     authors: "Linlong Xu, <b>Baosong Yang</b>, Xiaoyu Lv, Tianchi Bi, Dayiheng Liu, Haibo Zhang"
-    booktitle: "Arxiv"
+    booktitle: "Arxiv Preprint"
     venue: conference 
     doc-url: https://arxiv.org/pdf/2111.01992.pdf
   - layout: paper
@@ -13,8 +13,8 @@ papers:
     paper-type: article
     selected: no
     img: daga-cl
-    title: "Improving Neural Machine Translation with Dynamic Lexicalized Dependency Encoding"
-    authors: "<b>Baosong Yang</b>, Derek Wong, Lidia Chao and Min Zhang"
+    title: "Context-Aware Self-Attention Networks for Natural Language Processing"
+    authors: "<b>Baosong Yang</b>, Longyue Wang, Derek Wong, Shuming Shi, Zhaopeng Tu"
     journal: Neurocomputing, Elsevier, 2021 (SCI, JCR Q1)
     journal-url: https://www.journals.elsevier.com/neurocomputing
     doc-url: https://www.sciencedirect.com/science/article/abs/pii/S0925231221009048
