@@ -20,8 +20,6 @@ We have some research intern positions available in Alibaba DAMO Academy. If you
 
 * 2020-09-15: One paper is accepted by [EMNLP-2020](https://2020.emnlp.org/).
 
-* 2020-07-13: Two papers are accepted by [SIGIR-Ecom-2020](https://sigir-ecom.github.io/).
-
 * 2020-04-04: One paper is accepted by [ACL-2020](http://www.acl2020.org/).
 
 
