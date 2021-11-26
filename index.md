@@ -5,9 +5,13 @@ cover: false
 ---
 I am currently an Algorithm Expert in the [Language Technology Lab](https://damo.alibaba.com/labs/language-technology?lang=en) at [Alibaba DAMO Academy](https://damo.alibaba.com). I received my Ph.D at [NLP2CT](http://nlp2ct.cis.umac.mo/) Lab of University of Macau, advised by Prof. [Derek F. Wong](https://www.fst.um.edu.mo/en/staff/fstfw.html). I have studied and practiced in a broad field of natural language processing (NLP) such as Chinese word segmentation, named entity, semantic role labeling, question answering system, machine translation. My current research focuses on deep learning for NLP, including neural machine translation (NMT),  cross-lingual language model (XLM), cross-lingual information retrieval (CLIR).
 
-We have some research intern positions available in Alibaba DAMO Academy. If you are interested in NLP and ML, please feel free to contact me: nlp2ct.baosong[AT]gmail.com.
+We have some research intern positions available in Alibaba DAMO Academy. If you are interested in NLP and ML, please feel free to contact us: nlp2ct.baosong[AT]gmail.com.
 
 ## News
+* 2021-11-01: Our model RoBLEURT wins 5 of 8 English-target tasks in [WMT-2021 Metrics Shared Tasks](http://www.statmt.org/wmt21/metrics-task.html).
+
+* 2021-05-18: Our model KGR^4 achieves 1st place in [CommonGen](https://inklab.usc.edu/CommonGen/leaderboard.html).
+
 * 2021-05-05: Two papers are accepted by [ACL-2021](https://2021.aclweb.org/).
 
 * 2021-03-10: One paper is accepted by [NAACL-2021](https://2021.naacl.org/).
@@ -19,8 +23,6 @@ We have some research intern positions available in Alibaba DAMO Academy. If you
 * 2020-07-13: Two papers are accepted by [SIGIR-Ecom-2020](https://sigir-ecom.github.io/).
 
 * 2020-04-04: One paper is accepted by [ACL-2020](http://www.acl2020.org/).
-
-* 2020-02-24: Join [Alibaba DAMO Academy](https://damo.alibaba.com).
 
 
 ## Interests
