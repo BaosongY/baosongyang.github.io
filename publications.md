@@ -6,7 +6,7 @@ menu:   true
 order:  1
 ---
 [Google Scholar Citations](https://scholar.google.com/citations?user=fXsHJXkAAAAJ)
-{% assign my_year = "2022" %} 
+{% assign my_year = "2023" %} 
 {% for paper in site.data.papers.papers %}
  {% if paper.year!=my_year %}
  {% assign my_year = paper.year %}
