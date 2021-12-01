@@ -2,25 +2,33 @@ papers:
   - layout: paper
     year: "2022"
     paper-type: inproceedings
-    selected: no
+    selected: yes
     title: "Frequency-Aware Contrastive Learning for Neural Machine Translation" 
-    authors: "Tong Zhang, Wei Ye, <b>Baosong Yang</b>, Long Zhang, Xingzhang Ren, Dayiheng Liu, Jinan Sun, Shikun Zhang, Haibo Zhang, Wen Zhao"
+    authors: "Tong Zhang, Wei Ye, <b>Baosong Yang</b>, Long Zhang, Xingzhang Ren, Dayiheng Liu, Jinan Sun, Shikun Zhang, Haibo Zhang and Wen Zhao"
     booktitle: "AAAI 2022"
     venue: conference 
   - layout: paper
     year: "2022"
     paper-type: inproceedings
-    selected: no
+    selected: yes
     title: "KGR4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation" 
-    authors: "Xin Liu, Dayiheng Liu, <b>Baosong Yang</b>, Haibo Zhang, Jun Wei Ding, Wenqing Yao, Weihua Luo, Jinsong Su"
+    authors: "Xin Liu, Dayiheng Liu, <b>Baosong Yang</b>, Haibo Zhang, Jun Wei Ding, Wenqing Yao, Weihua Luo and Jinsong Su"
     booktitle: "AAAI 2022"
     venue: conference 
   - layout: paper
     year: "2021"
     paper-type: inproceedings
     selected: no
+    title: "RoBLEURT Submission for the WMT2021 Metrics Task" 
+    authors: "Yu Wan, Dayiheng Liu, <b>Baosong Yang</b>, Tianchi Bi, Haibo Zhang, Boxing Chen, Weihua Luo, Derek Wong and Lidia Chao"
+    booktitle: "WMT 2021"
+    venue: conference   
+  - layout: paper
+    year: "2021"
+    paper-type: inproceedings
+    selected: no
     title: "Leveraging Advantages of Interactive and Non-Interactive Models for Vector-Based Cross-Lingual Information Retrieval" 
-    authors: "Linlong Xu, <b>Baosong Yang</b>, Xiaoyu Lv, Tianchi Bi, Dayiheng Liu, Haibo Zhang"
+    authors: "Linlong Xu, <b>Baosong Yang</b>, Xiaoyu Lv, Tianchi Bi, Dayiheng Liu and Haibo Zhang"
     booktitle: "Arxiv Preprint"
     venue: conference 
     doc-url: https://arxiv.org/pdf/2111.01992.pdf
@@ -30,7 +38,7 @@ papers:
     selected: no
     img: daga-cl
     title: "Context-Aware Self-Attention Networks for Natural Language Processing"
-    authors: "<b>Baosong Yang</b>, Longyue Wang, Derek Wong, Shuming Shi, Zhaopeng Tu"
+    authors: "<b>Baosong Yang</b>, Longyue Wang, Derek Wong, Shuming Shi and Zhaopeng Tu"
     journal: Neurocomputing, Elsevier, 2021 (SCI, JCR Q1)
     journal-url: https://www.journals.elsevier.com/neurocomputing
     doc-url: https://www.sciencedirect.com/science/article/abs/pii/S0925231221009048
