@@ -23,6 +23,7 @@ papers:
     authors: "Yu Wan, Dayiheng Liu, <b>Baosong Yang</b>, Tianchi Bi, Haibo Zhang, Boxing Chen, Weihua Luo, Derek Wong and Lidia Chao"
     booktitle: "WMT 2021"
     venue: conference   
+    doc-url: http://www.statmt.org/wmt21/pdf/2021.wmt-1.114.pdf
   - layout: paper
     year: "2021"
     paper-type: inproceedings
