@@ -1,8 +1,24 @@
 papers:
   - layout: paper
+    year: "2022"
+    paper-type: inproceedings
+    selected: no
+    title: "Frequency-Aware Contrastive Learning for Neural Machine Translation" 
+    authors: "Tong Zhang, Wei Ye, <b>Baosong Yang</b>, Long Zhang, Xingzhang Ren, Dayiheng Liu, Jinan Sun, Shikun Zhang, Haibo Zhang, Wen Zhao"
+    booktitle: "AAAI 2022"
+    venue: conference 
+  - layout: paper
+    year: "2022"
+    paper-type: inproceedings
+    selected: no
+    title: "KGR4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation" 
+    authors: "Xin Liu, Dayiheng Liu, <b>Baosong Yang</b>, Haibo Zhang, Jun Wei Ding, Wenqing Yao, Weihua Luo, Jinsong Su"
+    booktitle: "AAAI 2022"
+    venue: conference 
+  - layout: paper
     year: "2021"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Leveraging Advantages of Interactive and Non-Interactive Models for Vector-Based Cross-Lingual Information Retrieval" 
     authors: "Linlong Xu, <b>Baosong Yang</b>, Xiaoyu Lv, Tianchi Bi, Dayiheng Liu, Haibo Zhang"
     booktitle: "Arxiv Preprint"
