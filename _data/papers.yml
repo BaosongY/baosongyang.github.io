@@ -1,5 +1,15 @@
 papers:
   - layout: paper
+    year: "2021"
+    paper-type: article
+    selected: yes
+    img: daga-cl
+    title: "Challenges of Neural Machine Translation for Short Texts"
+    authors: "Yu Wan, <b>Baosong Yang</b>*, Derek Wong*, Lidia Chao, Liang Yao, Haibo Zhang and Boxing Chen"
+    journal: Computational Linguisitcs, 2021
+    journal-url: https://direct.mit.edu/coli
+    venue: journal
+  - layout: paper
     year: "2022"
     paper-type: inproceedings
     selected: yes
@@ -93,7 +103,7 @@ papers:
     year: "2020"
     paper-type: inproceedings
     selected: no
-    title: "Constraint Translation Candidates: A Bridge between NeuralQuery Translation and Cross-lingual Information Retrieval" 
+    title: "Constraint Translation Candidates: A Bridge between Neural Query Translation and Cross-lingual Information Retrieval" 
     authors: "Tianchi Bi, Liang Yao, <b>Baosong Yang</b>, Haibo Zhang, Weihua Luo, Boxing Chen"
     booktitle: "SIGIR-Ecom 2020"
     doc-url: https://sigir-ecom.github.io/ecom20Papers/paper29.pdf 
@@ -102,7 +112,7 @@ papers:
     year: "2020"
     paper-type: inproceedings
     selected: no
-    title: "Exploiting Neural Query Translation intoCross Lingual Information Retrieval" 
+    title: "Exploiting Neural Query Translation into Cross Lingual Information Retrieval" 
     authors: "Liang Yao, <b>Baosong Yang</b>, Haibo Zhang, Weihua Luo, Boxing Chen"
     booktitle: "SIGIR-Ecom 2020"
     doc-url: https://sigir-ecom.github.io/ecom20Papers/paper15.pdf   
