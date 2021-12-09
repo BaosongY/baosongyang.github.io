@@ -1,15 +1,5 @@
 papers:
   - layout: paper
-    year: "2021"
-    paper-type: article
-    selected: yes
-    img: daga-cl
-    title: "Challenges of Neural Machine Translation for Short Texts"
-    authors: "Yu Wan, <b>Baosong Yang</b>*, Derek Wong*, Lidia Chao, Liang Yao, Haibo Zhang and Boxing Chen"
-    journal: Computational Linguisitcs
-    journal-url: https://direct.mit.edu/coli
-    venue: journal
-  - layout: paper
     year: "2022"
     paper-type: inproceedings
     selected: yes
@@ -25,6 +15,16 @@ papers:
     authors: "Xin Liu, Dayiheng Liu, <b>Baosong Yang</b>, Haibo Zhang, Jun Wei Ding, Wenqing Yao, Weihua Luo and Jinsong Su"
     booktitle: "AAAI 2022"
     venue: conference 
+  - layout: paper
+    year: "2021"
+    paper-type: article
+    selected: yes
+    img: daga-cl
+    title: "Challenges of Neural Machine Translation for Short Texts"
+    authors: "Yu Wan, <b>Baosong Yang</b>*, Derek Wong*, Lidia Chao, Liang Yao, Haibo Zhang and Boxing Chen"
+    journal: Computational Linguisitcs
+    journal-url: https://direct.mit.edu/coli
+    venue: journal
   - layout: paper
     year: "2021"
     paper-type: inproceedings
