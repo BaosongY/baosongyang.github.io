@@ -6,7 +6,7 @@ papers:
     img: daga-cl
     title: "Challenges of Neural Machine Translation for Short Texts"
     authors: "Yu Wan, <b>Baosong Yang</b>*, Derek Wong*, Lidia Chao, Liang Yao, Haibo Zhang and Boxing Chen"
-    journal: Computational Linguisitcs, 2021
+    journal: Computational Linguisitcs
     journal-url: https://direct.mit.edu/coli
     venue: journal
   - layout: paper
@@ -50,7 +50,7 @@ papers:
     img: daga-cl
     title: "Context-Aware Self-Attention Networks for Natural Language Processing"
     authors: "<b>Baosong Yang</b>, Longyue Wang, Derek Wong, Shuming Shi and Zhaopeng Tu"
-    journal: Neurocomputing, Elsevier, 2021 (SCI, JCR Q1)
+    journal: Neurocomputing (SCI, JCR Q1)
     journal-url: https://www.journals.elsevier.com/neurocomputing
     doc-url: https://www.sciencedirect.com/science/article/abs/pii/S0925231221009048
     venue: journal
@@ -169,7 +169,7 @@ papers:
     img: daga-cl
     title: "Improving Neural Machine Translation with Dynamic Lexicalized Dependency Encoding"
     authors: "<b>Baosong Yang</b>, Derek Wong, Lidia Chao and Min Zhang"
-    journal: Knowlege-Based Systems, Elsevier, 2019 (SCI, JCR Q1)
+    journal: Knowlege-Based Systems (SCI, JCR Q1)
     journal-url: https://www.journals.elsevier.com/knowledge-based-systems
     doc-url: https://reader.elsevier.com/reader/sd/pii/S095070511930440X?token=409E03FF752B6C1A4B37110FFC75BD622A0A20362089865E390ACD0CB830CBF1D3384557530A8204C2647D4EFC0A4FB2
     venue: journal
