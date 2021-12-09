@@ -8,6 +8,8 @@ I am currently an Algorithm Expert in the [Language Technology Lab](https://damo
 We have some research intern positions available in Alibaba DAMO Academy. If you are interested in NLP and ML, please feel free to contact us: nlp2ct.baosong[AT]gmail.com.
 
 ## News
+* 2021-12-09: One paper is accepted by [Computational Linguisitics](https://direct.mit.edu/coli).
+
 * 2021-12-01: Two papers are accepted by [AAAI-2022](https://aaai.org/Conferences/AAAI-22/).
 
 * 2021-11-01: Our model RoBLEURT wins 5 of 8 English-target tasks in [WMT-2021 Metrics Shared Tasks](http://www.statmt.org/wmt21/metrics-task.html).
