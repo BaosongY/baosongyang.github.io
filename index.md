@@ -8,6 +8,8 @@ I am currently an Algorithm Expert in the [Language Technology Lab](https://damo
 We have some research intern positions available in Alibaba DAMO Academy. If you are interested in NLP and ML, please feel free to contact us: nlp2ct.baosong[AT]gmail.com.
 
 ## News
+* 2022-01-18: One paper is accepted by [PAKDD-2022](http://www.pakdd.net/).
+
 * 2021-12-09: One paper is accepted by [Computational Linguisitics](https://direct.mit.edu/coli).
 
 * 2021-12-01: Two papers are accepted by [AAAI-2022](https://aaai.org/Conferences/AAAI-22/).
@@ -19,13 +21,6 @@ We have some research intern positions available in Alibaba DAMO Academy. If you
 * 2021-05-05: Two papers are accepted by [ACL-2021](https://2021.aclweb.org/).
 
 * 2021-03-10: One paper is accepted by [NAACL-2021](https://2021.naacl.org/).
-
-* 2020-09-30: One paper is accepted by [COLING-2020](https://coling2020.org/#).
-
-* 2020-09-15: One paper is accepted by [EMNLP-2020](https://2020.emnlp.org/).
-
-* 2020-04-04: One paper is accepted by [ACL-2020](http://www.acl2020.org/).
-
 
 ## Interests
 * Machine Learning
