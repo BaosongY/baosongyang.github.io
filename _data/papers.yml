@@ -3,6 +3,14 @@ papers:
     year: "2022"
     paper-type: inproceedings
     selected: yes
+    title: "Cross-Lingual Product Retrieval in E-Commerce Search" 
+    authors: "Wenya Zhu, Xiaoyu Lv, <b>Baosong Yang</b>, Yinghua Zhang, Xu Yong, Linlong Xu, Yinfu Feng, Haibo Zhang, Qing Da and Anxiang Zeng"
+    booktitle: "PAKDD 2022"
+    venue: conference 
+  - layout: paper
+    year: "2022"
+    paper-type: inproceedings
+    selected: yes
     title: "Frequency-Aware Contrastive Learning for Neural Machine Translation" 
     authors: "Tong Zhang, Wei Ye, <b>Baosong Yang</b>, Long Zhang, Xingzhang Ren, Dayiheng Liu, Jinan Sun, Shikun Zhang, Haibo Zhang and Wen Zhao"
     booktitle: "AAAI 2022"
