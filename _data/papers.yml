@@ -5,7 +5,7 @@ papers:
     selected: yes
     title: "UniTE: Unified Translation Evaluation" 
     authors: "Yu Wan, Dayiheng Liu, <b>Baosong Yang</b>, Haibo Zhang, Boxing Chen, Derek F. Wong, Lidia S. Chao"
-    booktitle: "ACL 2022 (Findings)"
+    booktitle: "ACL 2022"
     venue: conference
   - layout: paper
     year: "2022"
@@ -45,7 +45,7 @@ papers:
   - layout: paper
     year: "2022"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Cross-Lingual Product Retrieval in E-Commerce Search" 
     authors: "Wenya Zhu, Xiaoyu Lv, <b>Baosong Yang</b>, Yinghua Zhang, Xu Yong, Linlong Xu, Yinfu Feng, Haibo Zhang, Qing Da and Anxiang Zeng"
     booktitle: "PAKDD 2022"
@@ -126,7 +126,7 @@ papers:
   - layout: paper
     year: "2021"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Multi-Hop Transformer for Document-Level Machine Translation" 
     authors: "Long Zhang, Tong Zhang, Zhang Haibo, <b>Baosong Yang</b>, Wei Ye and Shikun Zhang"
     booktitle: "NAACL 2021"
