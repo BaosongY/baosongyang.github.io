@@ -3,6 +3,49 @@ papers:
     year: "2022"
     paper-type: inproceedings
     selected: yes
+    title: "UniTE: Unified Translation Evaluation" 
+    authors: "Yu Wan, Dayiheng Liu, <b>Baosong Yang</b>, Haibo Zhang, Boxing Chen, Derek F. Wong, Lidia S. Chao"
+    booktitle: "ACL 2022 (Findings)"
+    venue: conference
+  - layout: paper
+    year: "2022"
+    paper-type: inproceedings
+    selected: yes
+    title: "Unsupervised Preference-Aware Language Identification" 
+    authors: "Xingzhang Ren, <b>Baosong Yang</b>, Dayiheng Liu, Haibo Zhang, Xiaoyu Lv, Liang Yao, Jun Xie"
+    booktitle: "ACL 2022 (Findings)"
+    venue: conference
+  - layout: paper
+    year: "2022"
+    paper-type: inproceedings
+    selected: yes
+    title: "Attention Mechanism with Energy-Friendly Operations" 
+    authors: "Yu Wan, <b>Baosong Yang</b>, Dayiheng Liu, Rong Xiao, Derek F. Wong, Haibo Zhang, Boxing Chen, Lidia S. Chao"
+    booktitle: "ACL 2022 (Findings)"
+    venue: conference
+  - layout: paper
+    year: "2022"
+    paper-type: inproceedings
+    selected: yes
+    title: "GCPG: A General Framework for Controllable Paraphrase Generation" 
+    authors: "Kexin Yang, Dayiheng Liu, Wenqiang Lei, <b>Baosong Yang</b>, Haibo Zhang, Xue Zhao, Wenqing Yao, Boxing Chen"
+    booktitle: "ACL 2022 (Findings)"
+    venue: conference
+  - layout: paper
+    year: "2022"
+    paper-type: article
+    selected: no
+    img: daga-cl
+    title: "Multi-View Self-Attention Networks"
+    authors: "Mingzhou Xu, <b>Baosong Yang</b>, Derek Wong and Lidia Chao"
+    journal: Knowlege-Based Systems (SCI, JCR Q2)
+    journal-url: https://www.journals.elsevier.com/knowledge-based-systems
+    doc-url: https://www.sciencedirect.com/science/article/pii/S0950705122000855
+    venue: journal
+  - layout: paper
+    year: "2022"
+    paper-type: inproceedings
+    selected: yes
     title: "Cross-Lingual Product Retrieval in E-Commerce Search" 
     authors: "Wenya Zhu, Xiaoyu Lv, <b>Baosong Yang</b>, Yinghua Zhang, Xu Yong, Linlong Xu, Yinfu Feng, Haibo Zhang, Qing Da and Anxiang Zeng"
     booktitle: "PAKDD 2022"
@@ -177,7 +220,7 @@ papers:
     img: daga-cl
     title: "Improving Neural Machine Translation with Dynamic Lexicalized Dependency Encoding"
     authors: "<b>Baosong Yang</b>, Derek Wong, Lidia Chao and Min Zhang"
-    journal: Knowlege-Based Systems (SCI, JCR Q1)
+    journal: Knowlege-Based Systems (SCI, JCR Q2)
     journal-url: https://www.journals.elsevier.com/knowledge-based-systems
     doc-url: https://reader.elsevier.com/reader/sd/pii/S095070511930440X?token=409E03FF752B6C1A4B37110FFC75BD622A0A20362089865E390ACD0CB830CBF1D3384557530A8204C2647D4EFC0A4FB2
     venue: journal
