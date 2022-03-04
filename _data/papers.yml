@@ -57,6 +57,7 @@ papers:
     title: "Frequency-Aware Contrastive Learning for Neural Machine Translation" 
     authors: "Tong Zhang, Wei Ye, <b>Baosong Yang</b>, Long Zhang, Xingzhang Ren, Dayiheng Liu, Jinan Sun, Shikun Zhang, Haibo Zhang and Wen Zhao"
     booktitle: "AAAI 2022"
+    doc-url: https://arxiv.org/abs/2112.14484
     venue: conference 
   - layout: paper
     year: "2022"
@@ -65,6 +66,7 @@ papers:
     title: "KGR4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation" 
     authors: "Xin Liu, Dayiheng Liu, <b>Baosong Yang</b>, Haibo Zhang, Jun Wei Ding, Wenqing Yao, Weihua Luo and Jinsong Su"
     booktitle: "AAAI 2022"
+    doc-url: https://arxiv.org/abs/2112.08266
     venue: conference 
   - layout: paper
     year: "2021"
