@@ -8,6 +8,8 @@ I am currently an Algorithm Expert in the [Language Technology Lab](https://damo
 We have some research intern positions available in Alibaba DAMO Academy. If you are interested in NLP and ML, please feel free to contact us: nlp2ct.baosong[AT]gmail.com.
 
 ## News
+* 2022-02-25: Four papers are accepted by [ACL-2022](https://www.2022.aclweb.org/).
+
 * 2022-01-18: One paper is accepted by [PAKDD-2022](http://www.pakdd.net/).
 
 * 2021-12-09: One paper is accepted by [Computational Linguisitics](https://direct.mit.edu/coli).
@@ -20,16 +22,16 @@ We have some research intern positions available in Alibaba DAMO Academy. If you
 
 * 2021-05-05: Two papers are accepted by [ACL-2021](https://2021.aclweb.org/).
 
-* 2021-03-10: One paper is accepted by [NAACL-2021](https://2021.naacl.org/).
-
 ## Interests
 * Machine Learning
 * Natural Language Processing
 * Machine Translation
 
-## Education
+## Experience
 * Ph.D. 2019. University of Macau, Macau, China.
   Supervised by Prof. [Derek F. Wong](https://www.fst.um.edu.mo/en/staff/fstfw.html) and Prof. [Lidia S. Chao](https://www.fst.um.edu.mo/en/staff/cds/lidiasc.html).
+* Research Intern. 2018. Tencent AI Lab, Shenzhen, China.
+  Supervised by Dr. [Zhaopeng Tu](http://zptu.net/)  
 * M.S. 2015. Waseda University, Fukuka, Japan.
   Supervised by Prof. [Yves Lepage](https://www.waseda.jp/fsci/gips/other-en/2015/09/08/2164/)
 * B.S. 2014. Sichuan University, Sichuan, China.
