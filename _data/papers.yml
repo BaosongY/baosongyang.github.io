@@ -3,6 +3,30 @@ papers:
     year: "2022"
     paper-type: inproceedings
     selected: yes
+    title: "Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis" 
+    authors: "Yiwei Wang, Muhao Chen, Wenxuan Zhou, Yujun Cai, Yuxuan Liang, Dayiheng Liu, <b>Baosong Yang</b>, Juncheng Liu, Bryan Hooi"
+    booktitle: "NAACL 2022"
+    venue: conference
+  - layout: paper
+    year: "2022"
+    paper-type: inproceedings
+    selected: yes
+    title: "Bridging the Gap between Training and Inference: Multi-Candidate Optimization for Diverse Neural Machine Translation" 
+    authors: "Huan Lin, <b>Baosong Yang</b>, Liang Yao, Dayiheng Liu, Haibo Zhang, jun xie, Min Zhang, Jinsong Su"
+    booktitle: "NAACL 2022 (Findings)"
+    venue: conference 
+  - layout: paper
+    year: "2022"
+    paper-type: inproceedings
+    selected: yes
+    title: "Dangling-Aware Entity Alignment with Mixed High-Order Proximities" 
+    authors: "Juncheng Liu, Zequn Sun, Bryan Hooi, Yiwei Wang, Dayiheng Liu, <b>Baosong Yang</b>, Xiaokui Xiao, Muhao Chen"
+    booktitle: "NAACL 2022 (Findings)"
+    venue: conference
+  - layout: paper
+    year: "2022"
+    paper-type: inproceedings
+    selected: yes
     title: "UniTE: Unified Translation Evaluation" 
     authors: "Yu Wan, Dayiheng Liu, <b>Baosong Yang</b>, Haibo Zhang, Boxing Chen, Derek F. Wong, Lidia S. Chao"
     booktitle: "ACL 2022"
