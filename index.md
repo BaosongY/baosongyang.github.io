@@ -8,21 +8,17 @@ I am currently an Algorithm Expert in the [Language Technology Lab](https://damo
 We have some research intern positions available in Alibaba DAMO Academy. If you are interested in NLP and ML, please feel free to contact us: nlp2ct.baosong[AT]gmail.com.
 
 ## News
+* 2022-10-07: Two papers are accepted by [EMNLP-2022](https://2022.emnlp.org/).
+
+* 2022-08-30: Our model UniTE wins 2 of 4 tasks in [WMT-2022 Quality Estimation Shared Tasks](https://codalab.lisn.upsaclay.fr/competitions/6866#results).
+
 * 2022-04-08: Three papers are accepted by [NAACL-2022](https://2022.naacl.org/).
 
 * 2022-02-25: Four papers are accepted by [ACL-2022](https://www.2022.aclweb.org/).
 
-* 2022-01-18: One paper is accepted by [PAKDD-2022](http://www.pakdd.net/).
-
-* 2021-12-09: One paper is accepted by [Computational Linguisitics](https://direct.mit.edu/coli).
-
 * 2021-12-01: Two papers are accepted by [AAAI-2022](https://aaai.org/Conferences/AAAI-22/).
 
 * 2021-11-01: Our model RoBLEURT wins 5 of 8 English-target tasks in [WMT-2021 Metrics Shared Tasks](http://www.statmt.org/wmt21/metrics-task.html).
-
-* 2021-05-18: Our model KGR4 achieves 1st place in [CommonGen](https://inklab.usc.edu/CommonGen/leaderboard.html).
-
-* 2021-05-05: Two papers are accepted by [ACL-2021](https://2021.aclweb.org/).
 
 ## Interests
 * Machine Learning
@@ -51,4 +47,4 @@ We have some research intern positions available in Alibaba DAMO Academy. If you
 </ul>
 
 ## Professional Services
-* PC Member/Reviewer: ACL, AAAI, EMNLP, NAACL, NLPCC, CCL, etc.
+* Area Chair: EMNLP; PC Member/Reviewer: ACL, AAAI, NAACL, NLPCC, CCL, etc.
