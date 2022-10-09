@@ -3,6 +3,32 @@ papers:
     year: "2022"
     paper-type: inproceedings
     selected: yes
+    title: "WR-One2Set: Towards Well-Calibrated Keyphrase Generation" 
+    authors: "Binbin Xie, Xiangpeng Wei, <b>Baosong Yang</b>, Huan Lin, Jun Xie, Xiaoli Wang, Min Zhang, Jinsong Su"
+    booktitle: "EMNLP 2022"
+    venue: conference
+  - layout: paper
+    year: "2022"
+    paper-type: inproceedings
+    selected: yes
+    title: "Competency-Aware Neural Machine Translation: Can Machine Translation Know its Own Translation Quality?" 
+    authors: "Pei Zhang, <b>Baosong Yang</b>, Hao-Ran Wei, Dayiheng Liu, Kai Fan, Luo Si and Jun Xie"
+    booktitle: "EMNLP 2022"
+    venue: conference
+  - layout: paper
+    year: "2022"
+    paper-type: article
+    selected: yes
+    img: daga-cl
+    title: "Effective Approaches to Neural Query Language Identification"
+    authors: "Xingzhang Ren, <b>Baosong Yang</b>*, Dayiheng Liu, Haibo Zhang, Xiaoyu Lv, Liang Yao, Jun Xie"
+    journal: Computational Linguisitcs
+    journal-url: https://direct.mit.edu/coli
+    venue: journal
+  - layout: paper
+    year: "2022"
+    paper-type: inproceedings
+    selected: yes
     title: "Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis" 
     authors: "Yiwei Wang, Muhao Chen, Wenxuan Zhou, Yujun Cai, Yuxuan Liang, Dayiheng Liu, <b>Baosong Yang</b>, Juncheng Liu, Bryan Hooi"
     booktitle: "NAACL 2022"
