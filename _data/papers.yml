@@ -1,8 +1,77 @@
 papers:
   - layout: paper
-    year: "2022"
+    year: "2023"
+    paper-type: inproceedings
+    selected: no
+    title: "Polylm: An open source polyglot large language model" 
+    authors: "Xiangpeng Wei, Haoran Wei, Huan Lin, Tianhao Li, Pei Zhang, Xingzhang Ren, Mei Li, Yu Wan, Zhiwei Cao, Binbin Xie, Tianxiang Hu, Shangjie Li, Binyuan Hui, Bowen Yu, Dayiheng Liu, <b>Baosong Yang</b>*, Fei Huang, Jun Xie"
+    booktitle: "Arxiv Preprint"
+    venue: conference 
+    doc-url: https://browse.arxiv.org/pdf/2307.06018.pdf
+  - layout: paper
+    year: "2023"
     paper-type: inproceedings
     selected: yes
+    title: "Bridging the Domain Gaps in Context Representations for k-Nearest Neighbor Neural Machine Translation" 
+    authors: "Zhiwei Cao, <b>Baosong Yang</b>, Huan Lin, Suhang Wu, Xiangpeng Wei, Dayiheng Liu, Jun Xie, Min Zhang, Jinsong Su"
+    booktitle: "ACL 2023"
+    venue: conference
+  - layout: paper
+    year: "2023"
+    paper-type: inproceedings
+    selected: no
+    title: "Fantastic Expressions and Where to Find Them: Chinese Simile Generation with Multiple Constraints" 
+    authors: "Kexin Yang, Dayiheng Liu, Wenqiang Lei, <b>Baosong Yang</b>, Xiangpeng Wei, Zhengyuan Liu, Jun Xie"
+    booktitle: "ACL 2023"
+    venue: conference
+  - layout: paper
+    year: "2023"
+    paper-type: inproceedings
+    selected: no
+    title: "Tailor: A Soft-Prompt-Based Approach to Attribute-Based Controlled Text Generation" 
+    authors: "Kexin Yang, Dayiheng Liu, Wenqiang Lei, <b>Baosong Yang</b>, Mingfeng Xue, Boxing Chen, Jun Xie"
+    booktitle: "ACL 2023"
+    venue: conference
+  - layout: paper
+    year: "2023"
+    paper-type: article
+    selected: no
+    img: daga-cl
+    title: "From statistical methods to deep learning, automatic keyphrase prediction: A survey"
+    authors: "Binbin Xie, Jia Song, Liangying Shao, Suhang Wu, Xiangpeng Wei, <b>Baosong Yang</b>, Huan Lin, Jun Xie, Jinsong Su"
+    journal: Information Processing & Management
+    journal-url: Pergamon
+    venue: journal
+  - layout: paper
+    year: "2022"
+    paper-type: article
+    selected: yes
+    img: daga-cl
+    title: "Towards energy-preserving natural language understanding with spiking neural networks"
+    authors: "Rong Xiao, Yu Wan, <b>Baosong Yang</b>*, Haibo Zhang, Huajin Tang, Derek F. Wong, Boxing Chen"
+    journal: IEEE/ACM Transactions on Audio, Speech, and Language Processing
+    journal-url: https://ieeexplore.ieee.org/
+    venue: journal
+  - layout: paper
+    year: "2022"
+    paper-type: inproceedings
+    selected: no
+    title: "Alibaba-Translate China's Submission for WMT 2022 Metrics Shared Task" 
+    authors: "Keqin Bao, Yu Wan, Dayiheng Liu, <b>Baosong Yang</b>, Derek F Wong, Lidia S Chao, Wenqiang Lei, Jun Xie"
+    booktitle: "WMT 2022"
+    venue: conference
+  - layout: paper
+    year: "2022"
+    paper-type: inproceedings
+    selected: no
+    title: "Alibaba-Translate China's Submission for WMT 2022 Quality Estimation Shared Task" 
+    authors: "Yu Wan, Keqin Bao, Dayiheng Liu, <b>Baosong Yang</b>, Derek F Wong, Lidia S Chao, Wenqiang Lei, Jun Xie"
+    booktitle: "WMT 2022"
+    venue: conference
+  - layout: paper
+    year: "2022"
+    paper-type: inproceedings
+    selected: no
     title: "WR-One2Set: Towards Well-Calibrated Keyphrase Generation" 
     authors: "Binbin Xie, Xiangpeng Wei, <b>Baosong Yang</b>, Huan Lin, Jun Xie, Xiaoli Wang, Min Zhang, Jinsong Su"
     booktitle: "EMNLP 2022"
@@ -28,7 +97,7 @@ papers:
   - layout: paper
     year: "2022"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis" 
     authors: "Yiwei Wang, Muhao Chen, Wenxuan Zhou, Yujun Cai, Yuxuan Liang, Dayiheng Liu, <b>Baosong Yang</b>, Juncheng Liu, Bryan Hooi"
     booktitle: "NAACL 2022"
@@ -44,7 +113,7 @@ papers:
   - layout: paper
     year: "2022"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Dangling-Aware Entity Alignment with Mixed High-Order Proximities" 
     authors: "Juncheng Liu, Zequn Sun, Bryan Hooi, Yiwei Wang, Dayiheng Liu, <b>Baosong Yang</b>, Xiaokui Xiao, Muhao Chen"
     booktitle: "NAACL 2022 (Findings)"
@@ -76,7 +145,7 @@ papers:
   - layout: paper
     year: "2022"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "GCPG: A General Framework for Controllable Paraphrase Generation" 
     authors: "Kexin Yang, Dayiheng Liu, Wenqiang Lei, <b>Baosong Yang</b>, Haibo Zhang, Xue Zhao, Wenqing Yao, Boxing Chen"
     booktitle: "ACL 2022 (Findings)"
@@ -103,7 +172,7 @@ papers:
   - layout: paper
     year: "2022"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Frequency-Aware Contrastive Learning for Neural Machine Translation" 
     authors: "Tong Zhang, Wei Ye, <b>Baosong Yang</b>, Long Zhang, Xingzhang Ren, Dayiheng Liu, Jinan Sun, Shikun Zhang, Haibo Zhang and Wen Zhao"
     booktitle: "AAAI 2022"
@@ -112,7 +181,7 @@ papers:
   - layout: paper
     year: "2022"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "KGR4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation" 
     authors: "Xin Liu, Dayiheng Liu, <b>Baosong Yang</b>, Haibo Zhang, Jun Wei Ding, Wenqing Yao, Weihua Luo and Jinsong Su"
     booktitle: "AAAI 2022"
@@ -241,7 +310,7 @@ papers:
   - layout: paper
     year: "2020"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Neuron Interaction Based Representation Composition for Neural Machine Translation" 
     authors: "Jian Li, Xing Wang, <b>Baosong Yang</b>, Shuming Shi, Michael Lyu and Zhaopeng Tu"
     booktitle: "AAAI 2020" 
@@ -259,7 +328,7 @@ papers:
   - layout: paper
     year: "2019"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Leveraging Local and Global Patterns for Self-Attention Networks" 
     authors: "Mingzhou Xu, Derek Wong, <b>Baosong Yang</b>, Yue Zhang and Lidia Chao"
     booktitle: "ACL 2019"
@@ -297,7 +366,7 @@ papers:
   - layout: paper
     year: "2019"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Modeling Recurrence for Transformer." 
     authors: "Jie Hao, Xing Wang, <b>Baosong Yang</b>, Longyue Wang, Jinfeng Zhang and Zhaopeng Tu"
     booktitle: "NAACL 2019"
@@ -324,7 +393,7 @@ papers:
   - layout: paper
     year: "2018"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Multi-Head Attention with Disagreement Regularization." 
     authors: "Jian Li, Zhaopeng Tu, <b>Baosong Yang</b>, Michael Lyu and Tong Zhang"
     booktitle: "EMNLP 2018"
