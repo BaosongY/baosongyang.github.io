@@ -31,7 +31,7 @@ We have some research intern positions available in Alibaba DAMO Academy. If you
   Supervised by Prof. [Yves Lepage](https://www.waseda.jp/fsci/gips/other-en/2015/09/08/2164/)
 * B.S. 2014. Sichuan University, Sichuan, China.
 
-## Recent Publications
+## Selected Publications
 [Full List](/publications/)
 <ul>
 {% for paper in site.data.papers.papers %}
@@ -44,4 +44,4 @@ We have some research intern positions available in Alibaba DAMO Academy. If you
 </ul>
 
 ## Professional Services
-* Area Chair: EMNLP; PC Member/Reviewer: ACL, AAAI, NAACL, NLPCC, CCL, etc.
+* Area Chair: EMNLP, AACL; PC Member/Reviewer: ACL, AAAI, NAACL, NLPCC, CCL, etc.
