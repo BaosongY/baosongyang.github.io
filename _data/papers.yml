@@ -2,7 +2,7 @@ papers:
   - layout: paper
     year: "2023"
     paper-type: inproceedings
-    selected: no
+    selected: yes
     title: "Polylm: An open source polyglot large language model" 
     authors: "Xiangpeng Wei, Haoran Wei, Huan Lin, Tianhao Li, Pei Zhang, Xingzhang Ren, Mei Li, Yu Wan, Zhiwei Cao, Binbin Xie, Tianxiang Hu, Shangjie Li, Binyuan Hui, Bowen Yu, Dayiheng Liu, <b>Baosong Yang</b>*, Fei Huang, Jun Xie"
     booktitle: "Arxiv Preprint"
