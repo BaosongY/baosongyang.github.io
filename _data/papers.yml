@@ -91,7 +91,7 @@ papers:
   - layout: paper
     year: "2023"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Bridging the Domain Gaps in Context Representations for k-Nearest Neighbor Neural Machine Translation" 
     authors: "Zhiwei Cao, <b>Baosong Yang</b>, Huan Lin, Suhang Wu, Xiangpeng Wei, Dayiheng Liu, Jun Xie, Min Zhang, Jinsong Su"
     booktitle: "ACL 2023"
