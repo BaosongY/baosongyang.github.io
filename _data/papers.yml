@@ -1,5 +1,69 @@
 papers:
   - layout: paper
+    year: "2024"
+    paper-type: inproceedings
+    selected: yes
+    title: "MoNMT: Modularly Leveraging Monolingual and Bilingual Knowledge for Neural Machine Translation" 
+    authors: "Jianhui Pang, <b>Baosong Yang</b>*, Derek F Wong, Dayiheng Liu, Xiangpeng Wei, Jun Xie, Lidia S Chao"
+    booktitle: "COLING 2024"
+    venue: conference 
+    doc-url: https://aclanthology.org/2024.lrec-main.1010.pdf
+  - layout: paper
+    year: "2023"
+    paper-type: article
+    selected: yes
+    img: daga-cl
+    title: "Rethinking the Exploitation of Monolingual Data for Low-Resource Neural Machine Translation"
+    authors: "Jianhui Pang, <b>Baosong Yang</b>*, Derek Fai Wong*, Yu Wan, Dayiheng Liu, Lidia Sam Chao, Jun Xie"
+    journal: Computational Linguisitcs
+    journal-url: https://direct.mit.edu/coli
+    venue: journal
+  - layout: paper
+    year: "2023"
+    paper-type: inproceedings
+    selected: yes
+    title: "MMNMT: Modularizing Multilingual Neural Machine Translation with Flexibly Assembled MoE and Dense Blocks" 
+    authors: "Shangjie Li, Xiangpeng Wei, Shaolin Zhu, Jun Xie, <b>Baosong Yang</b>*, Deyi Xiong"
+    booktitle: "EMNLP 2023"
+    venue: conference 
+    doc-url: https://aclanthology.org/2023.emnlp-main.303.pdf
+  - layout: paper
+    year: "2023"
+    paper-type: inproceedings
+    selected: no
+    title: "Unifying Discrete and Continuous Representations for Unsupervised Paraphrase Generation" 
+    authors: "Mingfeng Xue, Dayiheng Liu, Wenqiang Lei, Jie Fu, Jian Lan, Mei Li, <b>Baosong Yang</b>, Jun Xie, Yidan Zhang, Dezhong Peng, Jiancheng Lv"
+    booktitle: "EMNLP 2023"
+    venue: conference 
+    doc-url: https://aclanthology.org/2023.emnlp-main.852.pdf
+  - layout: paper
+    year: "2023"
+    paper-type: inproceedings
+    selected: no
+    title: "Dynamic Voting for Efficient Reasoning in Large Language Models" 
+    authors: "Mingfeng Xue, Dayiheng Liu, Wenqiang Lei, Xingzhang Ren, <b>Baosong Yang</b>, Jun Xie, Yidan Zhang, Dezhong Peng, Jiancheng Lv"
+    booktitle: "EMNLP 2023 （Findings）"
+    venue: conference 
+    doc-url: https://aclanthology.org/2023.findings-emnlp.203.pdf
+  - layout: paper
+    year: "2023"
+    paper-type: inproceedings
+    selected: yes
+    title: "EMMA-X: An EM-like Multilingual Pre-training Algorithm for Cross-lingual Representation Learning" 
+    authors: "Ping Guo, Xiangpeng Wei, Yue Hu, <b>Baosong Yang</b>, Dayiheng Liu, Fei Huang, Jun Xie"
+    booktitle: "NeurIPS 2023"
+    venue: conference 
+    doc-url: https://proceedings.neurips.cc/paper_files/paper/2023/file/201408406e0c5cf7626c4baeae6eaadd-Paper-Conference.pdf
+  - layout: paper
+    year: "2023"
+    paper-type: inproceedings
+    selected: no
+    title: "Imitation Attacks Can Steal More Than You Think from Machine Translation Systems" 
+    authors: "Tianxiang Hu, Pei Zhang, <b>Baosong Yang</b>, Jun Xie, Rui Wang"
+    booktitle: "NLPCC 2023"
+    venue: conference 
+    doc-url: https://dl.acm.org/doi/abs/10.1007/978-3-031-44693-1_32
+  - layout: paper
     year: "2023"
     paper-type: inproceedings
     selected: yes
