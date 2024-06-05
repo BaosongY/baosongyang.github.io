@@ -2,6 +2,22 @@ papers:
   - layout: paper
     year: "2024"
     paper-type: inproceedings
+    selected: no
+    title: "Efficient k-Nearest-Neighbor Machine Translation with Dynamic Retrieval" 
+    authors: "Yan Gao, Zhiwei Cao, Zhongjian Miao, <b>Baosong Yang</b>, Shiyu Liu, Min Zhang, Jinsong Su"
+    booktitle: "ACL 2024 (Findings)"
+    venue: conference 
+  - layout: paper
+    year: "2024"
+    paper-type: inproceedings
+    selected: no
+    title: "Meta-Reasoning: Semantics-Symbol Deconstruction for Large Language Models" 
+    authors: "Yiming Wang, Zhuosheng Zhang, Pei Zhang, <b>Baosong Yang</b>, Rui Wang"
+    booktitle: "ACL 2024 (Findings)"
+    venue: conference 
+  - layout: paper
+    year: "2024"
+    paper-type: inproceedings
     selected: yes
     title: "MoNMT: Modularly Leveraging Monolingual and Bilingual Knowledge for Neural Machine Translation" 
     authors: "Jianhui Pang, <b>Baosong Yang</b>*, Derek F Wong, Dayiheng Liu, Xiangpeng Wei, Jun Xie, Lidia S Chao"
@@ -42,7 +58,7 @@ papers:
     selected: no
     title: "Dynamic Voting for Efficient Reasoning in Large Language Models" 
     authors: "Mingfeng Xue, Dayiheng Liu, Wenqiang Lei, Xingzhang Ren, <b>Baosong Yang</b>, Jun Xie, Yidan Zhang, Dezhong Peng, Jiancheng Lv"
-    booktitle: "EMNLP 2023 （Findings）"
+    booktitle: "EMNLP 2023 (Findings)"
     venue: conference 
     doc-url: https://aclanthology.org/2023.findings-emnlp.203.pdf
   - layout: paper
