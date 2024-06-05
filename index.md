@@ -3,23 +3,24 @@ layout: page
 title: Baosong Yang
 cover: false
 ---
-I am currently an Algorithm Expert in the [Language Technology Lab](https://damo.alibaba.com/labs/language-technology?lang=en) at [Alibaba DAMO Academy](https://damo.alibaba.com). I received my Ph.D at [NLP2CT](http://nlp2ct.cis.umac.mo/) Lab of University of Macau, advised by Prof. [Derek F. Wong](https://www.fst.um.edu.mo/en/staff/fstfw.html). I have studied and practiced in a broad field of natural language processing (NLP) such as Chinese word segmentation, named entity, semantic role labeling, question answering system, machine translation. My current research focuses on deep learning for NLP, including neural machine translation (NMT),  cross-lingual language model (XLM), cross-lingual information retrieval (CLIR). I have published over 50 papers in leading NLP/AI journals and conferences such as ACL, EMNLP, AAAI, and NAACL.
+I am currently an Algorithm Expert in the [Language Technology Lab](https://damo.alibaba.com/labs/language-technology?lang=en) at [Alibaba Tongyi Lab](https://tongyi.aliyun.com/). I received my Ph.D at [NLP2CT](http://nlp2ct.cis.umac.mo/) Lab of University of Macau, advised by Prof. [Derek F. Wong](https://www.fst.um.edu.mo/en/staff/fstfw.html). I have studied and practiced in a broad field of natural language processing (NLP) such as Chinese word segmentation, named entity, semantic role labeling, question answering system, machine translation. My current research focuses on multilingualism of Large Language Model. I have published over 50 papers in leading NLP/AI journals and conferences such as ACL, EMNLP, AAAI, and NAACL.
 
-We have some research intern positions available in Alibaba DAMO Academy. If you are interested in NLP and ML, please feel free to contact us: nlp2ct.baosong[AT]gmail.com.
+We have some research intern positions available in Qwen Team. If you are interested in LLM, please feel free to contact us: nlp2ct.baosong[AT]gmail.com.
 
 ## News
+* 2024-05-16: Two papers are accepted by [ACL-2024](https://2024.aclweb.org/). 
+
+* 2024-02-20: One paper is accepted by [COLING-2024](https://lrec-coling-2024.org/).
+
+* 2024-02-06: We release [Qwen1.5](https://qwenlm.github.io/blog/qwen1.5/), which boasts comparable multilingual capabilities to GPT3.5-Turbo.
 
 * 2023-09-22: One paper is accepted by [NeurlPS-2023](https://nips.cc/). 
 
 * 2023-07-21: We release a 13B multilingual large language model which is trained on 600 billion tokens -- PolyLM ([Demo](https://modelscope.cn/studios/damo/demo-polylm-multialpaca-13b/summary),[Model](https://modelscope.cn/models/damo/nlp_polylm_13b_text_generation/summary),[Paper](https://browse.arxiv.org/pdf/2307.06018.pdf),[Code](https://github.com/modelscope/swift/tree/main/examples/pytorch/llm))
 
-* 2023-05-03: Four papers are accepted by [ACL-2023](https://2023.aclweb.org/).
-
-* 2022-10-07: Two papers are accepted by [EMNLP-2022](https://2022.emnlp.org/).
-
 ## Interests
-* Machine Learning
-* Natural Language Processing
+* Multilingualism
+* Large Language Model
 * Machine Translation
 
 ## Experience
