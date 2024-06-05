@@ -3,7 +3,7 @@ layout: page
 title: Baosong Yang
 cover: false
 ---
-I am currently an Algorithm Expert in the [Language Technology Lab](https://damo.alibaba.com/labs/language-technology?lang=en) at [Alibaba Tongyi Lab](https://tongyi.aliyun.com/). I received my Ph.D at [NLP2CT](http://nlp2ct.cis.umac.mo/) Lab of University of Macau, advised by Prof. [Derek F. Wong](https://www.fst.um.edu.mo/en/staff/fstfw.html). I have studied and practiced in a broad field of natural language processing (NLP) such as Chinese word segmentation, named entity, semantic role labeling, question answering system, machine translation. My current research focuses on multilingualism of Large Language Model. I have published over 50 papers in leading NLP/AI journals and conferences such as ACL, EMNLP, AAAI, and NAACL.
+I am currently a Senior Algorithm Expert in the [Language Technology Lab](https://damo.alibaba.com/labs/language-technology?lang=en) at [Alibaba Tongyi Lab](https://tongyi.aliyun.com/). I received my Ph.D at [NLP2CT](http://nlp2ct.cis.umac.mo/) Lab of University of Macau, advised by Prof. [Derek F. Wong](https://www.fst.um.edu.mo/en/staff/fstfw.html). I have studied and practiced in a broad field of natural language processing (NLP) such as Chinese word segmentation, named entity, semantic role labeling, question answering system, machine translation. My current research focuses on multilingualism of Large Language Model. I have published over 50 papers in leading NLP/AI journals and conferences such as ACL, EMNLP, AAAI, and NAACL.
 
 We have some research intern positions available in Qwen Team. If you are interested in LLM, please feel free to contact us: nlp2ct.baosong[AT]gmail.com.
 
