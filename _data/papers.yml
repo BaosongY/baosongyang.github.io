@@ -109,7 +109,7 @@ papers:
   - layout: paper
     year: "2022"
     paper-type: article
-    selected: yes
+    selected: no
     img: daga-cl
     title: "Towards energy-preserving natural language understanding with spiking neural networks"
     authors: "Rong Xiao, Yu Wan, <b>Baosong Yang</b>*, Haibo Zhang, Huajin Tang, Derek F. Wong, Boxing Chen"
@@ -143,7 +143,7 @@ papers:
   - layout: paper
     year: "2022"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Competency-Aware Neural Machine Translation: Can Machine Translation Know its Own Translation Quality?" 
     authors: "Pei Zhang, <b>Baosong Yang</b>, Hao-Ran Wei, Dayiheng Liu, Kai Fan, Luo Si and Jun Xie"
     booktitle: "EMNLP 2022"
@@ -151,7 +151,7 @@ papers:
   - layout: paper
     year: "2022"
     paper-type: article
-    selected: yes
+    selected: no
     img: daga-cl
     title: "Effective Approaches to Neural Query Language Identification"
     authors: "Xingzhang Ren, <b>Baosong Yang</b>*, Dayiheng Liu, Haibo Zhang, Xiaoyu Lv, Liang Yao, Jun Xie"
@@ -169,7 +169,7 @@ papers:
   - layout: paper
     year: "2022"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Bridging the Gap between Training and Inference: Multi-Candidate Optimization for Diverse Neural Machine Translation" 
     authors: "Huan Lin, <b>Baosong Yang</b>, Liang Yao, Dayiheng Liu, Haibo Zhang, jun xie, Min Zhang, Jinsong Su"
     booktitle: "NAACL 2022 (Findings)"
@@ -185,7 +185,7 @@ papers:
   - layout: paper
     year: "2022"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "UniTE: Unified Translation Evaluation" 
     authors: "Yu Wan, Dayiheng Liu, <b>Baosong Yang</b>, Haibo Zhang, Boxing Chen, Derek F. Wong, Lidia S. Chao"
     booktitle: "ACL 2022"
@@ -193,7 +193,7 @@ papers:
   - layout: paper
     year: "2022"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Unsupervised Preference-Aware Language Identification" 
     authors: "Xingzhang Ren, <b>Baosong Yang</b>, Dayiheng Liu, Haibo Zhang, Xiaoyu Lv, Liang Yao, Jun Xie"
     booktitle: "ACL 2022 (Findings)"
@@ -201,7 +201,7 @@ papers:
   - layout: paper
     year: "2022"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Attention Mechanism with Energy-Friendly Operations" 
     authors: "Yu Wan, <b>Baosong Yang</b>, Dayiheng Liu, Rong Xiao, Derek F. Wong, Haibo Zhang, Boxing Chen, Lidia S. Chao"
     booktitle: "ACL 2022 (Findings)"
@@ -254,7 +254,7 @@ papers:
   - layout: paper
     year: "2021"
     paper-type: article
-    selected: yes
+    selected: no
     img: daga-cl
     title: "Challenges of Neural Machine Translation for Short Texts"
     authors: "Yu Wan, <b>Baosong Yang</b>*, Derek Wong*, Lidia Chao, Liang Yao, Haibo Zhang and Boxing Chen"
@@ -293,7 +293,7 @@ papers:
   - layout: paper
     year: "2021"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation" 
     authors: "Xin Liu, <b>Baosong Yang</b>, Dayiheng Liu, Haibo Zhang, Weihua Luo, Min Zhang, Haiying Zhang and Jinsong Su"
     booktitle: "ACL 2021"
@@ -302,7 +302,7 @@ papers:
   - layout: paper
     year: "2021"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Towards User-Driven Neural Machine Translation" 
     authors: "Huan Lin, Liang Yao, <b>Baosong Yang</b>, Dayiheng Liu, Haibo Zhang, Weihua Luo, Degen Huang and Jinsong Su"
     booktitle: "ACL 2021"
@@ -320,7 +320,7 @@ papers:
   - layout: paper
     year: "2020"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Domain Transfer based Data Augmentation for Neural Query Translation" 
     authors: "Liang Yao, <b>Baosong Yang</b>, Haibo Zhang, Boxing Chen and Weihua Luo"
     booktitle: "COLING 2020"
@@ -329,7 +329,7 @@ papers:
   - layout: paper
     year: "2020"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Self-Paced Learning for Neural Machine Translation" 
     authors: "Yu Wan, <b>Baosong Yang</b>*, Derek Wong*, Yikai Zhou, Lidia Chao, Haibo Zhang and Boxing Chen"
     booktitle: "EMNLP 2020"
@@ -356,7 +356,7 @@ papers:
   - layout: paper
     year: "2020"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Uncertainty-Aware Curriculum Learning for Neural Machine Translation" 
     authors: "Yikai Zhou, <b>Baosong Yang</b>, Derek Wong, Yu Wan and Lidia Chao"
     booktitle: "ACL 2020"
@@ -365,7 +365,7 @@ papers:
   - layout: paper
     year: "2020"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Unsupervised Neural Dialect Translation with Commonality and Diversity Modeling" 
     authors: "Yu Wan*, <b>Baosong Yang</b>*, Derek Wong, Lidia Chao, Haihua Du and Ben Ao"
     booktitle: "AAAI 2020"
@@ -383,7 +383,7 @@ papers:
   - layout: paper
     year: "2019"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Assessing the Ability of Self-Attention Networks to Learn Word Order" 
     authors: "<b>Baosong Yang</b>, Longyue Wang, Derek Wong, Lidia Chao and Zhaopeng Tu"
     booktitle: "ACL 2019"
@@ -412,7 +412,7 @@ papers:
   - layout: paper
     year: "2019"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Convolutional Self-Attention Networks" 
     authors: "<b>Baosong Yang</b>, Longyue Wang, Derek Wong, Lidia Chao and Zhaopeng Tu"
     booktitle: "NAACL 2019"
@@ -421,7 +421,7 @@ papers:
   - layout: paper
     year: "2019"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Information Aggregation for Multi-Head Attention with Routing-by-Agreement." 
     authors: "Jian Li, <b>Baosong Yang</b>, Zi-Yi Dou, Xing Wang, Michael R. Lyu and Zhaopeng Tu"
     booktitle: "NAACL 2019"
@@ -439,7 +439,7 @@ papers:
   - layout: paper
     year: "2019"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Context-Aware Self-Attention Networks." 
     authors: "<b>Baosong Yang</b>, Jian Li, Derek Wong, Lidia Chao, Xing Wang and Zhaopeng Tu"
     booktitle: "AAAI 2019"
@@ -448,7 +448,7 @@ papers:
   - layout: paper
     year: "2018"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Modeling Localness for Self-Attention Networks." 
     authors: "<b>Baosong Yang</b>, Zhaopeng Tu, Derek Wong, Fandong Meng, Lidia Chao and Tong Zhang"
     booktitle: "EMNLP 2018"
@@ -466,7 +466,7 @@ papers:
   - layout: paper
     year: "2017"
     paper-type: inproceedings
-    selected: yes
+    selected: no
     title: "Towards Bidirectional Hierarchical Representations for Attention-Based Neural Machine Translation." 
     authors: "<b>Baosong Yang</b>, Derek Wong, Tong Xiao, Lidia Chao and Jingbo Zhu"
     booktitle: "EMNLP 2017"
