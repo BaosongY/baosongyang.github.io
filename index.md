@@ -8,6 +8,8 @@ I am currently a Senior Algorithm Expert in the [Language Technology Lab](https:
 We have some research intern positions available in Qwen Team. If you are interested in LLM, please feel free to contact us: nlp2ct.baosong[AT]gmail.com.
 
 ## News
+* 2024-06-07: We release [Qwen2](https://qwenlm.github.io/blog/qwen2/), which boasts comparable multilingual capabilities to GPT4-Turbo.
+
 * 2024-05-16: Two papers are accepted by [ACL-2024](https://2024.aclweb.org/). 
 
 * 2024-02-20: One paper is accepted by [COLING-2024](https://lrec-coling-2024.org/).
