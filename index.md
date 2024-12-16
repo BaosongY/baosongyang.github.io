@@ -8,17 +8,16 @@ I am currently a Senior Algorithm Expert in the [Language Technology Lab](https:
 We have some research intern positions available in Qwen Team. If you are interested in LLM, please feel free to contact us: nlp2ct.baosong[AT]gmail.com.
 
 ## News
-* 2024-06-07: We release [Qwen2](https://qwenlm.github.io/blog/qwen2/), which boasts comparable multilingual capabilities to GPT4-Turbo.
 
-* 2024-05-16: Two papers are accepted by [ACL-2024](https://2024.aclweb.org/). 
+* 2024-09-26: One paper is accepted by [NeurlPS-2024](https://nips.cc/). 
 
-* 2024-02-20: One paper is accepted by [COLING-2024](https://lrec-coling-2024.org/).
+* 2024-09-20: Two papers are accepted by [EMNLP-2024](https://2024.aclweb.org/). 
 
-* 2024-02-06: We release [Qwen1.5](https://qwenlm.github.io/blog/qwen1.5/), which boasts comparable multilingual capabilities to GPT3.5-Turbo.
+* 2024-09-19: We release [Qwen2.5](https://qwenlm.github.io/blog/qwen2/).
 
-* 2023-09-22: One paper is accepted by [NeurlPS-2023](https://nips.cc/). 
+* 2024-06-07: We release [Qwen2](https://qwenlm.github.io/blog/qwen2/).
 
-* 2023-07-21: We release a 13B multilingual large language model which is trained on 600 billion tokens -- PolyLM ([Demo](https://modelscope.cn/studios/damo/demo-polylm-multialpaca-13b/summary),[Model](https://modelscope.cn/models/damo/nlp_polylm_13b_text_generation/summary),[Paper](https://browse.arxiv.org/pdf/2307.06018.pdf),[Code](https://github.com/modelscope/swift/tree/main/examples/pytorch/llm))
+* 2024-02-06: We release [Qwen1.5](https://qwenlm.github.io/blog/qwen1.5/).
 
 ## Interests
 * Multilingualism
